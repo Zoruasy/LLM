@@ -1,82 +1,50 @@
 body {
-    font-family: 'Verdana', sans-serif;
-    background: linear-gradient(135deg, #ffcc00 0%, #ff6666 100%);
-    color: #333;
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
 }
 
 .container {
-    background: #fff;
-    padding: 2rem;
-    border-radius: 16px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-    width: 90%;
-    max-width: 600px;
+    width: 400px; /* Vergroot de breedte van de container */
+    margin: 50px auto;
+    padding: 30px; /* Vergroot de padding */
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #ff0000 50%, #ffffff 50%);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5); /* Iets grotere schaduw */
+    text-align: center;
 }
 
-form {
+#chatForm {
     display: flex;
-    gap: 10px;
-    margin-bottom: 1rem;
+    flex-direction: column;
 }
 
 #chatfield {
-    flex: 1;
-    padding: 10px;
-    font-size: 1rem;
-    border: 2px solid #ffcc00;
-    border-radius: 8px;
-    outline: none;
+    padding: 15px; /* Vergroot de padding van het invoerveld */
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin-bottom: 15px; /* Vergroot de marge onder het invoerveld */
+    font-size: 16px; /* Vergroot de tekstgrootte */
 }
 
 button {
-    background-color: #ffcc00;
+    padding: 15px; /* Vergroot de padding van de knop */
+    background-color: #000;
+    color: #fff;
     border: none;
-    padding: 10px 20px;
-    font-weight: bold;
-    font-size: 1rem;
-    border-radius: 8px;
+    border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    font-size: 16px; /* Vergroot de tekstgrootte van de knop */
 }
 
 button:hover {
-    background-color: #ff9900;
+    background-color: #444;
 }
 
 #response {
-    background-color: #f9f9f9;
-    padding: 15px;
-    border-radius: 8px;
-    min-height: 100px;
-    overflow-y: auto;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    font-size: 1rem;
-}
-
-/* Markdown styling */
-#response h1,
-#response h2,
-#response h3 {
-    color: #cc0000;
-}
-
-#response strong {
-    color: #0066cc;
-}
-
-#response ul {
-    padding-left: 1.2rem;
-}
-
-#response code {
-    background: #eee;
-    padding: 2px 5px;
-    border-radius: 4px;
+    margin-top: 20px;
+    padding: 15px; /* Vergroot de padding van het responsgebied */
+    border: 2px solid #000;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 16px; /* Vergroot de tekstgrootte van de respons */
 }

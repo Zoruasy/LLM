@@ -114,3 +114,1176 @@ Pikachu's name comes from Japanese onomatopoeia: "pika" (a spark) and "chu" (the
 As of 2024, there are over 1,000 different Pokémon species.
 
 The Pokémon Company is co-owned by Nintendo, Game Freak, and Creatures Inc.
+
+
+Pikachu is an Electric-type Pokémon introduced in Generation I. It evolves into Raichu when exposed to a Thunder Stone. Pikachu stores electricity in its cheeks and can release it in quick, high-voltage bursts.
+Region: Kanto
+Evolves into: Raichu (with Thunder Stone)
+Known Moves: Thunderbolt, Quick Attack, Iron Tail, Electro Ball
+Forms: Gigantamax Pikachu
+Fun Fact: Pikachu is the official mascot of the Pokémon franchise.
+
+Raichu is the evolved form of Pikachu. It stores more electricity and can discharge it in devastating surges.
+Region: Kanto
+Evolves from: Pikachu (Thunder Stone)
+Known Moves: Thunder, Thunder Punch, Volt Tackle
+Forms: Alolan Raichu (Electric/Psychic Type)
+
+Charmander is a Fire-type Pokémon. The flame on Charmander's tail reflects its health; a strong flame means a healthy Charmander.
+Region: Kanto
+Evolves into: Charmeleon ➔ Charizard
+Known Moves: Ember, Flamethrower, Dragon Breath
+
+Charizard flies around the sky in search of opponents. It breathes intense flames that can melt any material.
+Region: Kanto
+Forms: Mega Charizard X, Mega Charizard Y, Gigantamax Charizard
+Known Moves: Flamethrower, Dragon Claw, Blast Burn
+
+Bulbasaur is a dual-type Grass/Poison Pokémon. It carries a bulb on its back from birth.
+Region: Kanto
+Evolves into: Ivysaur ➔ Venusaur
+Known Moves: Vine Whip, Leech Seed, Solar Beam
+
+Venusaur’s flower releases a soothing scent that attracts other Pokémon.
+Forms: Mega Venusaur, Gigantamax Venusaur
+Region: Kanto
+Known Moves: Petal Dance, Frenzy Plant
+
+Squirtle is a Water-type Pokémon. It hides in its shell and sprays water at its opponents.
+Region: Kanto
+Evolves into: Wartortle ➔ Blastoise
+Known Moves: Water Gun, Hydro Pump, Skull Bash
+
+Blastoise has water spouts that protrude from its shell. The water it shoots can pierce steel.
+Forms: Mega Blastoise, Gigantamax Blastoise
+Region: Kanto
+Known Moves: Hydro Pump, Flash Cannon
+
+Eevee has unstable DNA, allowing it to evolve into many different forms based on environmental factors.
+Region: Kanto
+Evolves into: Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
+Known Moves: Quick Attack, Swift, Baby-Doll Eyes
+
+Vaporeon underwent a spontaneous mutation and grew fins and gills to become Water-type.
+Region: Kanto
+Evolves from: Eevee (Water Stone)
+Known Moves: Surf, Aqua Ring
+
+Jigglypuff is a Normal/Fairy-type Pokémon. Its ability to lull opponents to sleep with its singing is legendary.
+Region: Kanto
+Evolves into: Wigglytuff (Moon Stone)
+Known Moves: Sing, Hyper Voice, Body Slam
+
+Meowth is a Normal-type Pokémon famous for its love of shiny objects and mischief.
+Region: Kanto and Alola (Alolan Meowth is Dark type)
+Evolves into: Persian
+Known Moves: Payday, Slash, Bite
+
+Psyduck is a Water-type Pokémon plagued by headaches that trigger psychic powers.
+Region: Kanto
+Evolves into: Golduck
+Known Moves: Water Pulse, Zen Headbutt
+
+Golduck is the evolved form of Psyduck. It is far more graceful and efficient in battle.
+Region: Kanto
+Known Moves: Hydro Pump, Confusion, Surf
+
+Lucario is a Fighting/Steel Pokémon capable of sensing and manipulating Aura.
+Region: Sinnoh
+Evolves from: Riolu (friendship during daytime)
+Known Moves: Aura Sphere, Close Combat, Meteor Mash
+
+Gengar is a Ghost/Poison Pokémon known for hiding in shadows and cackling mischievously.
+Region: Kanto
+Evolves from: Haunter (Trade)
+Forms: Mega Gengar
+Known Moves: Shadow Ball, Sludge Bomb
+
+Mewtwo is a genetically engineered Pokémon created from Mew’s DNA.
+Region: Kanto
+Forms: Mega Mewtwo X and Y
+Known Moves: Psychic, Psystrike, Aura Sphere
+
+Ditto is a Normal-type Pokémon that can transform into any other Pokémon it sees.
+Region: Kanto
+Known Move: Transform
+Fun Fact: Ditto is often used in breeding because of its flexible nature.
+
+Snorlax is a Normal-type Pokémon known for sleeping anywhere and only waking up to eat.
+Region: Kanto
+Evolves from: Munchlax (high friendship)
+Known Moves: Body Slam, Hyper Beam, Rest
+
+Dragonite is a Dragon/Flying Pokémon. It is known for its speed despite its large size.
+Region: Kanto
+Evolves from: Dragonair ➔ Dratini
+Known Moves: Dragon Rush, Hurricane, Outrage
+
+Piplup is a Water-type Pokémon known for its pride and self-reliance.
+Region: Sinnoh
+Evolves into: Prinplup ➔ Empoleon
+Known Moves: Bubble Beam, Drill Peck
+
+Prinplup is a Water-type Pokémon, the middle evolution of the Piplup line.
+Region: Sinnoh
+Evolves into: Empoleon
+Known Moves: Metal Claw, Hydro Pump
+
+Empoleon is a Water/Steel-type Pokémon. It has a steel trident-like beak.
+Region: Sinnoh
+Known Moves: Hydro Cannon, Flash Cannon, Aqua Jet
+
+Turtwig is a Grass-type Pokémon resembling a tiny turtle.
+Region: Sinnoh
+Evolves into: Grotle ➔ Torterra
+Known Moves: Razor Leaf, Earthquake
+
+Grotle is the evolved form of Turtwig. It can carry small Pokémon on its back.
+Region: Sinnoh
+Evolves into: Torterra
+Known Moves: Bite, Leech Seed
+
+Torterra is a Grass/Ground-type Pokémon with a massive tree on its shell.
+Region: Sinnoh
+Known Moves: Wood Hammer, Earthquake, Frenzy Plant
+
+Chimchar is a Fire-type Pokémon, resembling a chimpanzee.
+Region: Sinnoh
+Evolves into: Monferno ➔ Infernape
+Known Moves: Flame Wheel, Acrobatics
+
+Monferno is the evolved form of Chimchar, more adept in battling.
+Region: Sinnoh
+Evolves into: Infernape
+Known Moves: Flamethrower, Close Combat
+
+Infernape is a Fire/Fighting-type Pokémon, incredibly fast and agile.
+Region: Sinnoh
+Known Moves: Flare Blitz, Mach Punch
+
+Rowlet is a dual-type Grass/Flying Pokémon resembling a small owl.
+Region: Alola
+Evolves into: Dartrix ➔ Decidueye
+Known Moves: Leafage, Brave Bird
+
+Dartrix is a snobby evolution of Rowlet, skilled in precise attacks.
+Region: Alola
+Evolves into: Decidueye
+Known Moves: Razor Leaf, Spirit Shackle
+
+Decidueye is a Grass/Ghost-type Pokémon, an archer specializing in stealth.
+Region: Alola
+Known Moves: Spirit Shackle, Leaf Blade
+
+Litten is a Fire-type cat Pokémon with a cold demeanor.
+Region: Alola
+Evolves into: Torracat ➔ Incineroar
+Known Moves: Ember, Fire Fang
+
+Torracat is the fiery intermediate form of Litten.
+Region: Alola
+Evolves into: Incineroar
+Known Moves: Flame Charge, Fire Blast
+
+Incineroar is a Fire/Dark-type Pokémon, resembling a heel wrestler.
+Region: Alola
+Known Moves: Darkest Lariat, Flare Blitz
+
+Popplio is a Water-type Pokémon resembling a sea lion.
+Region: Alola
+Evolves into: Brionne ➔ Primarina
+Known Moves: Bubble Beam, Aqua Jet
+
+Brionne is a graceful Water-type Pokémon, intermediate form of Popplio.
+Region: Alola
+Evolves into: Primarina
+Known Moves: Sparkling Aria, Aqua Ring
+
+Primarina is a Water/Fairy-type Pokémon with a beautiful singing voice.
+Region: Alola
+Known Moves: Moonblast, Hyper Voice
+
+Grookey is a Grass-type Pokémon that uses a stick to drum rhythmic beats.
+Region: Galar
+Evolves into: Thwackey ➔ Rillaboom
+Known Moves: Branch Poke, Drum Beating
+
+Thwackey is the evolved form of Grookey. It carries two drumsticks.
+Region: Galar
+Evolves into: Rillaboom
+Known Moves: Knock Off, Uproar
+
+Rillaboom is a Grass-type Pokémon that uses a giant drum to battle.
+Region: Galar
+Known Moves: Drum Beating, Wood Hammer
+
+Sobble is a Water-type Pokémon that cries easily when scared.
+Region: Galar
+Evolves into: Drizzile ➔ Inteleon
+Known Moves: Water Gun, Tearful Look
+
+Drizzile is an emo-like intermediate evolution of Sobble.
+Region: Galar
+Evolves into: Inteleon
+Known Moves: Sucker Punch, Rain Dance
+
+Inteleon is a Water-type Pokémon specializing in stealth and sniping moves.
+Region: Galar
+Known Moves: Snipe Shot, Ice Beam
+
+Scorbunny is a Fire-type Pokémon known for its speed and energetic nature.
+Region: Galar
+Evolves into: Raboot ➔ Cinderace
+Known Moves: Ember, Quick Attack
+
+Raboot is the evolved form of Scorbunny, gaining even more agility.
+Region: Galar
+Evolves into: Cinderace
+Known Moves: Flame Charge, Bounce
+
+Cinderace is a Fire-type Pokémon that plays soccer-like battles.
+Region: Galar
+Known Moves: Pyro Ball, Court Change
+
+Zacian is a Fairy-type Legendary Pokémon that becomes Fairy/Steel with the Rusted Sword.
+Region: Galar
+Forms: Crowned Sword Form
+Known Moves: Behemoth Blade, Sacred Sword
+
+Zamazenta is a Fighting-type Legendary Pokémon that becomes Fighting/Steel with the Rusted Shield.
+Region: Galar
+Forms: Crowned Shield Form
+Known Moves: Behemoth Bash, Iron Defense
+
+Eternatus is a Poison/Dragon-type Legendary Pokémon tied to the Darkest Day.
+Region: Galar
+Forms: Eternamax Eternatus (Battle only)
+Known Moves: Dynamax Cannon, Cross Poison
+
+Sylveon is a Fairy-type evolution of Eevee achieved through high friendship and knowing a Fairy move.
+Region: Kalos
+Known Moves: Moonblast, Hyper Voice
+
+Leafeon is a Grass-type Pokémon, evolved from Eevee near a Moss Rock.
+Region: Sinnoh
+Known Moves: Leaf Blade, Synthesis
+
+Glaceon is an Ice-type Pokémon evolved from Eevee near an Ice Rock.
+Region: Sinnoh
+Known Moves: Ice Beam, Blizzard
+
+Greninja is a Water/Dark-type Pokémon, evolved from Froakie.
+Region: Kalos
+Forms: Ash-Greninja (Special Bond Form)
+Known Moves: Water Shuriken, Night Slash
+
+Garchomp is a Dragon/Ground-type pseudo-legendary Pokémon.
+Region: Sinnoh
+Evolves from: Gabite
+Known Moves: Dragon Claw, Earthquake
+
+Arceus is the Mythical Pokémon said to have created the entire Pokémon world.
+Region: Sinnoh
+Forms: Changes type based on Plate held
+Known Moves: Judgment, Recover
+
+
+Pikachu: Pikachu communicate with each other by flaring their tails and emitting sparks. Pikachu have been known to save entire forests by unleashing massive thunderbolts.
+
+Raichu: Alolan Raichu uses its psychic powers to float and ride on its tail like a surfboard.
+
+Charmander: Charmander’s flame burns hotter if it experiences strong emotions such as anger or excitement.
+
+Charizard: A Charizard’s flame burns hotter than 5,000 degrees Fahrenheit. Wild Charizard are fiercely competitive.
+
+Bulbasaur: Bulbasaur enjoy relaxing in the sunlight, absorbing solar energy to grow their bulb.
+
+Venusaur: The flower on Venusaur's back absorbs sunlight and converts it into powerful energy used for massive attacks.
+
+Squirtle: In battle, Squirtle withdraws into its shell for protection while spraying water at enemies.
+
+Blastoise: Blastoise can precisely shoot water targets over 160 feet away. Its hydro cannons can punch through steel.
+
+Eevee: Eevee’s genetic code is so unstable that it can adapt to almost any environment.
+
+Vaporeon: Vaporeon can "melt" into water, making it invisible while submerged.
+
+Jigglypuff: Jigglypuff inflates its body to twice its size when singing to produce louder, longer notes.
+
+Meowth: Meowth can walk on two legs, unlike most Pokémon. It is famous for its appearance in Team Rocket.
+
+Psyduck: Psyduck suffers from constant migraines. Its psychic abilities activate when its headache becomes intense.
+
+Golduck: Golduck swims faster than any known Pokémon, reaching incredible underwater speeds.
+
+Lucario: Lucario can sense auras up to half a mile away. It’s highly attuned to human emotions.
+
+Gengar: Gengar absorbs heat, making the surrounding area feel several degrees colder when it appears.
+
+Mewtwo: Mewtwo’s mind is so powerful that it can manipulate others and erase memories.
+
+Ditto: When Ditto tries to transform into something it’s never seen before, it produces hilarious failed results.
+
+Snorlax: Snorlax spends 98% of its life sleeping. It only wakes up to eat several hundred pounds of food at a time.
+
+Dragonite: Dragonite has an incredible flying speed; it can circle the globe in 16 hours.
+
+Rowlet: Rowlet can fly silently thanks to the special feathers on its wings, much like a real owl.
+
+Dartrix: Dartrix is extremely vain and spends hours grooming its feathers.
+
+Decidueye: Decidueye fires its arrow quills with sniper-like precision.
+
+Greninja: Greninja’s Water Shuriken becomes sharper and faster the more trust it has with its trainer.
+
+Garchomp: Garchomp can fly at speeds rivaling jet planes, making it a terrifying force in battle.
+
+Arceus: Arceus is said to have shaped the entire Pokémon universe with its 1,000 arms.
+
+Grookey: Grookey’s drumming revitalizes plants and encourages their growth.
+
+Thwackey: Thwackey’s rhythm is contagious, causing other Pokémon to start dancing.
+
+Rillaboom: Rillaboom’s drum beats can shake the earth and are used in territorial displays.
+
+Sobble: Sobble’s tears contain a chemical that makes anyone who comes into contact with them cry uncontrollably.
+
+Inteleon: Inteleon has a hidden membrane it uses like a sniper scope to target enemies from afar.
+
+Scorbunny: Scorbunny’s feet become fiery hot during battle, letting it deliver powerful fiery kicks.
+
+Cinderace: Cinderace can juggle pebbles with its feet and turn them into flaming soccer balls.
+
+Zacian: Zacian’s sword can cut through anything, even giant towers or mountains.
+
+Zamazenta: Zamazenta’s shield-like body can block any physical attack, no matter how strong.
+
+Eternatus: Eternatus generates massive energy, fueling the Dynamax phenomenon in Galar.
+
+Sylveon: Sylveon’s ribbon-like feelers emit soothing auras that calm those around it.
+
+Leafeon: Leafeon purifies the air around it, making the air fresher and cleaner wherever it lives.
+
+Glaceon: Glaceon can instantly freeze its fur into sharp, needle-like projectiles for self-defense.
+
+Piplup: Piplup’s pride prevents it from accepting food from humans even when starving.
+
+Empoleon: Empoleon’s wing tips are sharp enough to slice through icebergs.
+
+Torterra: Large colonies of Pokémon are known to live on Torterra’s back.
+
+Infernape: Infernape fights with blazing speed and acrobatic attacks, resembling a martial artist.
+
+Primarina: Primarina’s song is so beautiful that it captivates all who hear it.
+
+# Pokémon Types
+
+There are 18 types in the Pokémon world:
+- Normal
+- Fire
+- Water
+- Electric
+- Grass
+- Ice
+- Fighting
+- Poison
+- Ground
+- Flying
+- Psychic
+- Bug
+- Rock
+- Ghost
+- Dragon
+- Dark
+- Steel
+- Fairy
+
+Each type has strengths and weaknesses. For example, Fire is strong against Grass, but weak against Water.
+
+---
+
+# Pokémon Regions
+
+- **Kanto:** The original region, home to Pokémon Red, Blue, and Yellow.
+- **Johto:** Introduced in Pokémon Gold and Silver.
+- **Hoenn:** Featured in Pokémon Ruby, Sapphire, and Emerald.
+- **Sinnoh:** Explored in Pokémon Diamond, Pearl, and Platinum.
+- **Unova:** A region based on New York City, introduced in Pokémon Black and White.
+- **Kalos:** Inspired by France, introduced in Pokémon X and Y.
+- **Alola:** A tropical region based on Hawaii, from Pokémon Sun and Moon.
+- **Galar:** A UK-inspired region introduced in Pokémon Sword and Shield.
+- **Paldea:** The latest region in Pokémon Scarlet and Violet.
+
+---
+
+# Legendary Pokémon
+
+Legendary Pokémon are extremely rare and powerful creatures, often central to the game's story.
+
+Famous Legendary Pokémon include:
+- **Mewtwo:** Genetically created from Mew’s DNA.
+- **Lugia:** The guardian of the seas.
+- **Ho-Oh:** The guardian of the skies.
+- **Rayquaza:** Master of the atmosphere.
+- **Dialga and Palkia:** Controllers of time and space.
+- **Giratina:** Master of antimatter.
+- **Zacian and Zamazenta:** Heroes of the Galar region.
+
+---
+
+# Mega Evolution
+
+Mega Evolution is a temporary transformation Pokémon can undergo during battle, introduced in Generation VI (X and Y).
+Pokémon need a special Mega Stone and a strong bond with their trainer to Mega Evolve.
+
+Examples:
+- Mega Charizard X becomes Fire/Dragon type.
+- Mega Lucario becomes even faster and stronger.
+
+---
+
+# Dynamax and Gigantamax
+
+Introduced in Generation VIII (Sword and Shield), Dynamaxing allows Pokémon to grow to giant sizes during battle for three turns.
+
+Some Pokémon have unique Gigantamax forms, with special appearances and exclusive moves:
+- Gigantamax Pikachu
+- Gigantamax Charizard
+- Gigantamax Meowth
+
+---
+
+# Evolution Stones
+
+Certain Pokémon evolve only when exposed to Evolution Stones:
+
+- **Thunder Stone:** Evolves Pikachu into Raichu.
+- **Fire Stone:** Evolves Eevee into Flareon.
+- **Water Stone:** Evolves Eevee into Vaporeon.
+- **Moon Stone:** Evolves Jigglypuff into Wigglytuff.
+- **Leaf Stone:** Evolves Gloom into Vileplume.
+- **Ice Stone:** Evolves Alolan Vulpix into Alolan Ninetales.
+
+---
+
+# Shiny Pokémon
+
+Shiny Pokémon are extremely rare color variants of Pokémon, with odds as low as 1 in 4,096 in newer games. They are prized by collectors for their unique appearances.
+
+Examples:
+- Shiny Gyarados (red instead of blue)
+- Shiny Charizard (black instead of orange)
+
+---
+
+# Pokédex
+
+The Pokédex is a digital encyclopedia that records information about Pokémon encountered and caught by trainers. Each region has its own version of the Pokédex.
+
+Professor Oak in Kanto was the first to introduce the concept of the Pokédex.
+
+---
+
+# Pokémon Trainers
+
+Famous Pokémon trainers include:
+- **Ash Ketchum:** The eternal 10-year-old aiming to be a Pokémon Master.
+- **Red:** The silent protagonist of the original games.
+- **Cynthia:** The powerful Sinnoh Champion.
+- **Leon:** The undefeated Champion of Galar.
+
+---
+
+# Pokémon Gym Leaders
+
+In each region, Gym Leaders serve as bosses that trainers must defeat to earn Badges:
+
+Example Gym Leaders:
+- Brock (Pewter City, Rock-type)
+- Misty (Cerulean City, Water-type)
+- Erika (Celadon City, Grass-type)
+- Raihan (Hammerlocke, Dragon-type)
+
+Collecting all gym badges allows a trainer to enter the Pokémon League and challenge the Elite Four.
+
+Name
+The original full name of the franchise is Pocket Monsters (ポケットモンスター, Poketto Monsutā), which has been commonly abbreviated to Pokemon (ポケモン) since its launch. When the franchise was released internationally, the short form of the title was used, with an acute accent (´) over the e to aid in pronunciation.[14] As a Japanese word composed of English loanwords, the word Pokémon is an example of a wasei-eigo.[15]: 30 
+
+Pokémon refers to both the franchise itself and the creatures within its fictional universe. As a noun, it is identical in both the singular and plural, as is every individual species name;[16] it is grammatically correct to say "one Pokémon" and "many Pokémon", as well as "one Pikachu" and "many Pikachu".[17]
+
+General concept
+See also: Pokémon (video game series) § Gameplay
+The Pokémon franchise is set in a world in which humans coexist with creatures known as Pokémon. Pokémon Red and Blue contain 151 Pokémon species, with new ones being added in subsequent games; as of January 2024, 1,025 Pokémon species have been introduced.[c] Most Pokémon are inspired by real-world animals or mythical creatures based on real-life folklore.[18] For example, Pikachu are a yellow, mouse-like species with tails shaped as lightning bolts, able to blast powerful electric jolts through the air.[19][20][21]
+
+The player character takes the role of a Pokémon Trainer. The Trainer has three primary goals: travel and explore the Pokémon world; discover and catch each Pokémon species in order to complete their Pokédex; and train a team of up to six Pokémon at a time and have them engage in Pokémon battles. Most Pokémon can be caught with spherical devices known as Poké Balls. Once the opposing Pokémon is sufficiently weakened, the Trainer throws the Poké Ball against the Pokémon, which is then transformed into a form of energy and transported into the device. Once the catch is successful, the Pokémon is tamed and is under the Trainer's command from then on. If the Poké Ball is thrown again, the Pokémon re-materializes into its original state. The Trainer's Pokémon can engage in battles against opposing Pokémon, including those in the wild or owned by other Trainers. Because the franchise is aimed at children, these battles are never presented as overtly violent and contain no blood or gore.[II] Pokémon never die in battle – they faint upon being defeated, and can then be rejuvenated at a Pokémon Center.[III]
+
+When a Pokémon wins a battle, it gains experience points.[30] After gaining a certain amount of them, the Pokémon levels up, and its statistics rise. As its level increases, the Pokémon learns new offensive and defensive moves to use in battle.[31][32] Furthermore, many species can undergo a form of spontaneous metamorphosis called Pokémon evolution, and transform into stronger forms.[33] Most Pokémon will evolve at a certain level, while others evolve through different means, such as exposure to a certain item or trading with another trainer.[34]
+
+History
+Origins
+The main idea behind Pokémon was conceived by Satoshi Tajiri. Tajiri was born on 28 August 1965,[35] and grew up in Machida, a suburb of Tokyo.[36] As a child, he enjoyed discovering and catching insects and other small creatures in the various ponds and fields that surrounded his town.[37][38] During Japan's economic miracle, many cities, including Machida, were significantly expanded. As a consequence, Machida's nature was largely destroyed. In his second year of junior high school,[39][40] an arcade hall opened in Tajiri's neighborhood, introducing him to video games. While studying electrical engineering at Tokyo College of Technology [ja], Tajiri began publishing a doujinshi magazine titled Game Freak. The title was inspired by the 1932 film Freaks, which Tajiri was fascinated with at the time.[41] He self-published the first issue of the magazine in March 1983, at the age of 17.[42][43] At the time, magazines specializing in video games did not yet exist in Japan, allowing Game Freak to fill a gap in the market.[44][45] Sometime later, Tajiri was contacted by aspiring manga artist Ken Sugimori, who became Game Freak's illustrator.[46] Game Freak folded in the late 1980s,[42] by which point Tajiri had become a respected game journalist in Japan's fledgling video game industry.[47]
+
+Tajiri's knowledge of video games brought him into contact with Tsunekazu Ishihara. Ishihara had studied Arts and Science at Tsukuba University, and was trained in CGI. After working in advertising for two years, Ishihara joined a company named Sedic in 1983, which created video graphics and software,[48] including one video game, Otocky (1987).[49][50] As video games grew in popularity, Sedic also produced a number of game-related television shows for Fuji Television's late-night slot.[48] In his job as a TV producer, Ishihara befriended Tajiri, as well as Shigesato Itoi, who would later become CEO of Ape, Inc.[51][52] Ishihara was also the general director of the world's first gaming encyclopedia: TV Games: Encyclopedia of Video Games (テレビゲーム—電視遊戯大全, Terebigēmu — Denshi Yūgi Taizen).[53][54] Kenji Hatakeyama & Masakazu Kubo (2000) wrote that, at the time, Ishihara was probably the most well-connected man in the industry,[55] with a knowledge of games "beyond comparison".[56] Ishihara was also interested in playing cards,[57][58] and contributed to the development of at least three simple card games designed by Itoi and published by Ape.[d]
+
+In 1986, Tajiri, Sugimori, and a few other enthusiasts started an informal development team called Game Freak, named after the magazine it grew out of. Over the next few years, they independently developed the puzzle game Quinty, working on it alongside school or their regular jobs.[65] However, no one within the group knew how to make the game's music. After consulting all his contacts, Tajiri got in touch with Junichi Masuda, who became the group's composer.[66] Quinty was finished in 1989, and published by Namco.[67] Tajiri officially incorporated Game Freak Co., Ltd. on 26 April 1989.[68]
+
+1989–1995: Development of Red and Green
+Further information: Pokémon Red and Blue § Development
+
+Two original Game Boys connected with a Game Link Cable
+Tajiri started to think of what was to become Pokémon while completing Quinty, and before he officially founded Game Freak. Around this time, Nintendo announced the upcoming release of the Game Boy, a handheld console that would revolutionize the gaming industry. Tajiri learned that the device would have a link port, and with the corresponding Game Link Cable, two Game Boys could be linked together.[69] Sometime later, Tajiri remembered an incident while playing Dragon Quest II (1987), a role-playing game (RPG) for the Famicom (NES). The game features randomly appearing items of varying rarity, including an extremely rare item called Mysterious Hat.[e] Tajiri did not encounter any, while Ken Sugimori, who was also playing the game, encountered two. Upon recalling this experience, Tajiri realized that the cable now made it possible to transfer things from one cartridge to another.[IV] He noted that, until then, the Game Link Cable was only used for competing, but not for something else.[74] Combining this inspiration with his memories of catching insects and other small species, Tajiri's idea would eventually evolve into a virtual recreation of his boyhood experiences,[75] and an attempt to "regain the world that he had lost".[76] He would later state that the game represents "the story of a boy's summer day".[77]
+
+
+Gashapon capsules have been cited as an inspiration for Pokemon.
+Tajiri and his Game Freak staff began pondering over a game centered on capturing creatures of differing rarity. Since the Game Boy is a portable device, these creatures could then be exchanged with other players in real life using the link cable. Once the player has caught a creature in-game, it was to be stored in miniaturized form in a special capsule. This facet of the game was inspired by Ultraseven, a tokusatsu show that Tajiri had enjoyed as a child.[78] The series' titular character owns a number of capsules containing miniaturized kaiju (monsters), which come out and return to their original sizes when the capsule is thrown into mid-air. Kaiju media in general were an important influence on Pokemon, as many Game Freak staff members had grown up with them.[71][79] Other influences that have been cited by Tajiri include: gashapon, capsules with toy figures in them that can be drawn from vending machines;[80][81] collectible cards, such as baseball cards, Ultraman cards and menko;[V] The Final Fantasy Legend (1989), the first RPG for the Game Boy;[86] and petting in Japan, with Tajiri noting that having Pokemon is similar to having pets.[87] Tajiri initially named his project Capsule Monsters, which GF's staff commonly shortened to Capumon.[88] However, it later turned out that the term Capsule Monsters could not be trademarked, and it was subsequently decided to call the game Pocket Monsters, which became Pokemon. According to Tomisawa (2000), the phrase "Capsule Monsters" was already registered.[88] According to Hatakeyama & Kubo (2000), the word "capsule" could not be used in the trademark.[89] Tomisawa (2000) states that the Game Freak staff then came up with several alternatives, before someone within the team suggested "Pocket Monsters".[88]
+
+In March 1989, Nintendo co-founded Ape, Inc. with Itoi. Ape's principal work was Mother (1989), a role-playing game written by Itoi, but it was also founded with the intent to give outside talent a chance to pitch new, innovative games.[52][57] At the time, Ape was housed in the same Kanda-Sudachō office building as Nintendo, located in Tokyo.[90] Ishihara, a friend of both Itoi and Tajiri, was involved with Ape's management (and would become its vice-president in 1991).[52][55] Tajiri's relationship with Ishihara prompted Tajiri to present his idea for Pocket Monsters at Ape's office.[91][92] Present during Tajiri's pitch was Takashi Kawaguchi, who worked at Nintendo's General Affairs Department and was also a manager at Ape.[57][93] Kawaguchi brought the idea to Nintendo president Hiroshi Yamauchi, who reportedly said: "This is it. This is the idea I've been waiting for."[94] By pure coincidence, Ishihara had come up with an idea for a game similar to that of Tajiri, and around the same time was discussing it with Ape. This game, Toto, involved "using the Game Boy as an insect cage". Ishihara emphasized, however, that the idea of trading creatures with the link cable was Tajiri's. GF and Ape agreed to merge their projects together.[95] According to Tajiri, the two teams initially collaborated on the game, but the work proved difficult, one of the reasons being that Ape was busy developing EarthBound.[96][97] Tajiri eventually figured that "rather than working with Ape, we had to do something on our own, or the project would never get finished".[96] Ape, Inc. is not credited on the final product.
+
+The development contract was signed at the beginning of 1990, with a planned delivery of the game in October.[98] Tajiri directed the project, working under Ishihara.[99] Ishihara was the producer – he managed the budget, staff, and work schedule, monitored the game's overall progress, and served as a liaison between Game Freak and Nintendo.[95][100] Ishihara also contributed ideas to the development,[58] and helped with debugging.[101][102] Sugimori was in charge of the graphics and character design.[103] Masuda created all music and sound effects, and did part of the programming.[104] The budget that Nintendo granted to Game Freak was low;[98] thus, Pocket Monsters was initially planned as a small, compact game, based primarily around Tajiri's core idea of exchanging.[86][105] However, as development progressed, GF's ideas and ambitions for Pokemon grew.[86] They soon realized that the game they were beginning to envision would not be easy to make. Sugimori admitted that, at the time, no one at GF had much knowledge of RPGs. "We thought we could handle it, but as we began working, we realized it was going to be tough", he acknowledged.[106] Pocket Monsters was suspended indefinitely, and GF turned their focus on other titles (see Game Freak § Games).
+
+After the game's initial development phase in 1990 and 1991,[107] the staff "tinkered with it from time to time", as Sugimori put it.[108] For instance, by October 1992, a large number of Pokemon had been designed, and a poll was held that month among all staff members to gauge the popularity of the different species. Several more such votes followed to determine collectively which Pokemon should be included.[109] Still, development had mostly come to a halt until the summer of 1994, after the release of the platform game Pulseman, upon which Tajiri decided it was time to make a serious effort towards finishing Pocket Monsters.[110] By this point, Game Freak's experience had grown considerably. Over the years, a number of new staff members had been added to the company. One of them was Atsuko Nishida, a graphic artist who created Pikachu, among others.[111][112][113] Ishihara used his knowledge of card games to add more depth to the battle system, and among other things suggested Pokemon types. Ishihara also came up with the idea of the Pokedex, a portable encyclopedic device which players can use to keep track of the Pokemon they caught.[58] Throughout the years, Tajiri had several conversations with Shigeru Miyamoto,[114] Nintendo's top game designer who Tajiri described as a mentor figure.[78] Although, in a 2018 retrospect, Miyamoto downplayed his role in advising Tajiri, and stated that his contributions to Pokemon were in fact limited.[115] Miyamoto did, however, suggest the use of different colored cartridges for the game, in response to Tajiri's and Ishihara's musings about making each playthrough slightly different, as to 'individualize' the player's experience.[116] According to Tajiri, "five or seven colors" were considered,[117] but they eventually settled on two: Red and Green. Otherwise identical, each had Pokemon not found in the other, encouraging players to socialize and trade to complete their collection.[116]
+
+Ishihara aspired to create video games of his own.[118] As Pocket Monsters Red and Green were nearing completion, Ishihara founded Creatures, Inc. on 8 November 1995. Upon founding, the company was housed in the same office building as Nintendo in Tokyo.[119] Co-ownership of the Pokemon property, which Ishihara helped create, was subsequently assigned to Creatures. This resulted in Pokemon having three legal owners: Game Freak, the main developer; Creatures, representing producer Ishihara; and Nintendo, the publisher. Anne Allison (2006) wrote that Nintendo also bought the property after Red and Green were finished.[120] Hatakeyama & Kubo (2000) noted that the ownership structure of Pokemon is uncommon.[11] They wrote that "Pokemon is probably the only property in the world today for which the original rights are not concentrated in a single company", like The Walt Disney Company does with their IPs.[121] Tajiri and Ishihara did consider merging Game Freak and Creatures at one point. However, Tajiri decided against it because he feared it would erase what he had built up since he was a teenager. "I felt threatened by the idea of changing how Game Freak was operating, and starting back over with Mr. Ishihara", he said. "It was an identity problem. If Game Freak ceased to exist, then so would I". Tajiri noted that, since Game Freak and Creatures both focus on Pokemon, it sometimes felt more like different departments than different companies.[91]
+
+Pocket Monsters Red and Green were finally finished in December 1995.[122] A release date of 21 December that year was announced,[123] but missed. After sufficient cartridges, manuals and packages had been manufactured, the pair of games ended up being published on 27 February 1996. However, the property was copyrighted in 1995, and " 1995" is shown on the title screens[124] and cartridges.[125] This year is since used on the copyright notice[1] seen on many Pokemon products, even though no actual Pokemon product was released in 1995.[126]
+
+1996–1998: Rise in Japan
+Release of Red and Green
+Nintendo had no high expectations of Pocket Monsters Red and Green, and media largely ignored the game(s).[127] By 1996, the seven-year-old Game Boy console was considered yesterday's news and near the end of its lifecycle.[26][128][129] On the other hand, new Game Boys continued to be manufactured and sold.[130] The console was widespread and, due to its age, affordable to children.[26][131] Also, the Game Boy had experienced a small revival in Japan in 1995 due to the success of Mario's Picross. Coincidentally, this game was directed by Ishihara, and co-developed by Ape. The popularity of Mario's Picross incited Nintendo to develop the Game Boy Pocket,[132] a slimmer and improved version of the Game Boy, released in Japan on 21 July 1996.[133] Because of the timing and naming, some were under the impression that the Game Boy Pocket was made to promote Pocket Monsters, but this was in fact a coincidence that would end up benefiting both.[134]
+
+CoroCoro manga, Mew lottery
+Two media channels that would play important roles in the Pokemon franchise were the CoroCoro Comic, released monthly, and its sister magazine Bessatsu CoroCoro Comic, released bi-monthly. Both manga magazines are published by Shogakukan, a long-time business partner of Nintendo, and have featured manga based on Nintendo properties (e.g. Super Mario-kun, Kirby of the Stars, Donkey Kong). At the time of Pokemon's release, the main CoroCoro magazine was read by one in four elementary school students.[135] CoroCoro's deputy editor-in-chief was Masakazu Kubo [ja]. On Ishihara's suggestion,[136] Kubo commissioned the creation of a manga adaptation. Written and illustrated by Kosaku Anakubo [ja], its first chapter was featured in the March/April issue of Bessatsu CoroCoro Comic, released on 28 February 1996, the day after Red and Green's release.[137] Shogakukan, which frequently surveys their target groups, determined that the Pocket Monsters manga was well received.[138]
+
+To further promote Red and Green, the May issue of CoroCoro, released on 15 April 1996, announced the "Legendary Pokemon Offer", centered around a mysterious, secret Pokemon called Mew.[139][140] Mew was a last-minute addition to Red & Green. It is unobtainable in the game(s) through usual means, and was intended to be used at a later point in some post-launch activity.[141] To participate in the promotion, CoroCoro readers had to send in a postcard, and from the entrants, 20 were selected at random. The winners then had to send in their cartridge so that Mew could be uploaded onto it. The lottery was a success and increased word-of-mouth.[26][141] By September, sales of Red and Green had surpassed 1 million units.[142]
+
+Blue Version
+After the release of Pokemon Red and Green, Game Freak continued to grow, and a number of new employees were hired. For training purposes, they were ordered to study and make bug fixes to the source code of Red & Green, and to create new sprites for it;[143] the test was later dubbed Pocket Monsters Blue. It was originally not meant to be sold. Only a small number of handmade copies were made, intended as a special gift to "20 to 100 people".[144] After Kubo learned of it, he encouraged Tajiri and Ishihara to allow an official release of Blue. President Hiroshi Yamauchi initially rejected this, fearing it would confuse people into believing it was an entirely new Pokemon game. Kawaguchi then suggested an alternative, which Yamauchi agreed with: Blue would not receive a normal retail release, but would instead be made available only through mail order for a limited time as a special offer.[145] It was announced in the November issue of CoroCoro, which explicitly stated that Blue was not a new game, but rather a special, limited edition to celebrate 1 million sales of Red and Green.[140] The offer was a surprisingly big success: 300,000 units were expected to be sold, but over double was ordered.[146][147]
+
+Trading Card Game
+The Pokemon Trading Card Game was one of the first collectible card games (CCGs) developed in Japan. Its creation was influenced by Magic: The Gathering, the first CCG in history.[148][149][150] Indeed, the Pokemon Trading Card Game can be considered a simplified version of Magic.[151][152] First released in the United States in 1993, Magic had gained popularity not just in North America and Europe, but also in Asia.[153] Ishihara was fond of playing cards,[58] and had contributed to the development of at least three simple card games designed by Shigesato Itoi and released through Ape, Inc.[d] At the time, Ishihara was particularly interested in Magic: The Gathering.[148] While developing the Pokemon RPG, he realized that the concept behind it could be adapted into a Magic-like CCG.[57] The Pokemon Trading Card Game was designed by Ishihara,[154] Akihiko Miura, Kōichi Ōyama, and Takumi Akabane.[155] All were former staff members of Ape and had previously worked on EarthBound (1994): Miura was the game's main designer, Ōyama was its art director, and Akabane was one of its chief debuggers.[156]
+
+While card games have a long history in Japan, a collectible card game was a relatively new concept there, and at the time not widely known.[157] Because of this, Ishihara had difficulties finding distributors. Sometime in 1995, Ishihara pitched the card game to Nintendo. They agreed to have the cards manufactured, subcontracting an unidentified printing company. However, Nintendo did not want the hassle of having to develop a distribution system from the ground up, i.e. finding retailers willing to sell a CCG.[158] Ishihara was then contacted by Satoshi Kayama, director of a small firm called Media Factory. Like Ishihara, Kayama was a fan of card games. He felt that CCGs would soon rise to prominence in Japan, and had been gathering information on the possibility of developing such a game in some form. When Kayama heard that Creatures had developed a CCG, he contacted Ishihara and offered to distribute it, signing the contract near the end of 1995.[159]
+
+CoroCoro again proved a valuable information channel. The Trading Card Game was first announced in the November issue, the same one that announced Pokemon Blue.[160] The issue came bundled with two promo cards: one of Purin (Jigglypuff) and one of Pikachu. Surveys showed that they were respectively the most and second-most popular Pokemon at the time.[161] On 20 October 1996, the first card set was released.[162] Booster packs were launched the same day, containing 10 randomly inserted cards.[163] In the West, the booster packs contained 11 cards.[f] The original set would be titled the Base Set in English. Many more sets would follow. Despite being ignored by the media, except for CoroCoro,[164] the cards became an instant success upon release. 87 million Pokemon cards were shipped by the end of March 1997, six months after its launch, and one month before the debut of the next big installment of the franchise: the Pokemon anime. The success of the TV series would cause the cards' sales figure to explode: by March 1998, a total of 499 million cards had been produced in Japan.[165]
+
+Anime production launches
+By August 1996, Kubo had become convinced of Pokemon's potential, and believed Shogakukan should create an anime adaptation.[166] Nintendo was hesitant, noting that if the anime would flop, it would negatively affect the popularity of the game.[167] Ishihara initially opposed the idea, because he thought it would overly hasten the 'consumption' of the property: he feared that if the series would end, people would assume that Pokemon has ended, and move on to the next thing.[168] At the time, Creatures and Game Freak were planning the sequel(s) to Red and Green, Pokemon Gold and Silver, and Ishihara did not want the anime to end before they could release their new games.[169][170] Kubo was ultimately able to resolve the concerns of all parties involved. An important aspect of Kubo's bargaining power was the then-ongoing Mini 4WD craze and its accompanying hit series Bakusō Kyōdai Let's & Go!!. Kubo had an important role in the creation of both, which impressed the stakeholders.[171] To appease Ishihara, Kubo promised him that the anime would last for at least a year and a half. This was unusually long for a debuting anime, and required a big investment.[169][172] Kubo's proposal for Pocket Monsters was officially approved on 26 September 1996.[173] For Nintendo of Japan, it was the first time they licensed a TV series.[174] Kubo assigned independent producer Choji Yoshikawa [ja] to lead the project.[175]
+
+Shogakukan Productions, commonly called ShoPro, was Shogakukan's production company. The animation company they commissioned was OLM, Inc. (Oriental Light and Magic), on Kubo's suggestion.[176] Kunihiko Yuyama, one of OLM's founding members, became the anime's director. ShoPro assembled a team of five writers, plus two supporting writers.[177] All key people involved with the production of Pokemon were well-experienced and had proven track records within Japan's anime industry. Yoshikawa felt that the team got lucky. "The probability of so many great people coming together at the same time is very low", he said.[178] Per Tajiri's explicit condition,[179] every anime team member had to play the game extensively, including the illustrators and voice actors.[178] The anime staff "unanimously agreed that the game was interesting"[180] and "felt connected with each other through the world of Pokemon",[178] feeling positively challenged to make an anime that would match the game's quality.[181]
+
+
+A boy hugging a Pikachu-costumed performer. Pikachu became a popular character among both boys and girls.[182]
+A production council was formed to produce the anime. Different people appeared at different meetings, but four individuals usually present were Ishihara of Creatures, Sugimori of Game Freak, Yuyama of OLM, and independent producer Yoshikawa. Yoshikawa had the final say. The council decided on the anime's worldview, characters, general storyline, and various important details. The early meetings, which were also attended by Tajiri, usually started with a Q&A session in which Tajiri and Ishihara were asked about the Pokemon universe.[183] The council was careful to have the anime be in concordance with the video game. Inevitably, there had to be differences between the two, but all agreed that the overall worldview as envisioned by Tajiri should not be disturbed.[184] At the start of the video game, the player has to choose one of three starter Pokemon: Fushigidane, Hitokage, or Zenigame (Bulbasaur, Charmander, or Squirtle). The council didn't want to unfairly popularize any of them, and wanted the protagonist to start out with a different Pokemon.[185][186] Hatakeyama & Kubo (2000) wrote that, by coincidence, three people independently suggested to the council that a Pikachu should be a main character in the anime: Kubo, Yuyama, and Keisuke Iwata of TV Tokyo's Film Department.[187] In the end, all council members agreed that Pikachu should be one of Pocket Monsters' central icons, as they expected Pikachu to appeal to both boys and girls, as well as their mothers. This would expand its audience, which was considered a core objective of the anime.[188][189]
+
+During the council's first meeting, Yoshikawa brought up the issue on whether the Pokemon in the anime could talk, and if not, how they could communicate. In the video games, each has a specific cry. In Anakubo's CoroCoro manga, most could speak. At first, the council believed there should be a mixture of Pokemon that could talk and some that could not. However, this idea was eventually discarded: the Pokemon had to make a specific cry. The council agreed that Pokemon were like animals, and while they and humans should be able to understand each other in the series, they should not speak each other's language.[190] It was decided that Pikachu would repeatedly say its own name in various intonations. The role of Pikachu was given to Ikue Otani. During try-outs, Yuyama had Otani voice Pikachu in normal Japanese, as well as in 'Pikachu talk', in which it only said the syllables of its name. Yuyama realized that, even in the latter style of limited communication, Otani was experienced enough to still convey the messages and emotions needed.[191]
+
+ShoPro paid half of the production cost of Pokemon. TV Tokyo paid the other half and was granted co-ownership of the anime.[192] The ads during the show's commercial breaks were managed by advertisement agency JR Kikaku [ja], which was in turn paid by sponsors buying advertisement space.[193] In negotiating with TV Tokyo, Kubo managed to secure the 19:00 – 19:30 timeslot on Tuesdays.[194] Pocket Monsters premiered on 1 April 1997. By November, it had become the highest-rated program on TV Tokyo.[195] The anime succeeded in its goal of widening Pokemon's audience. Although the video games and the cards remained mostly of interest to boys, the anime also got more girls interested in the franchise, and girls' purchases of Pokemon products increased.[182] This has been partly credited to Pikachu, who gained widespread popularity among both boys and girls.[196] The success of this character would later lead to the game Pocket Monsters Pikachu (Pokémon Yellow: Special Pikachu Edition), released in Japan on 12 September 1998.[197][198] An adaptation of Pokemon Blue, this version was made to resemble the TV series more.[199]
+
+Copyright council formed, merchandising expands
+In the early months of the franchise, Nintendo was the contractual representative for Pokemon, and thus the central contact point for all Pokemon-related licensing (the approval of branded products).[200] Around the time that planning of the anime begun, licensing requests for Pokemon started to increase, which Nintendo had difficulties handling due to a lack of (experienced) staff.[201] Nintendo consequently granted ShoPro exclusive licensor rights. This was the first time that Nintendo of Japan (NoJ) granted licensor rights to another company, aside from its overseas subsidiaries Nintendo of America (NoA) and Nintendo of Europe (NoE).[202]
+
+A copyright council was formed, headed by Ishihara. Beginning in April 1997, the council met every Tuesday, in the conference room of Creatures' office, at the Nintendo Kanda Building in Sudachō, Tokyo.[119][203][204] Attendees usually included Ishihara and his secretary, representatives of Nintendo, Game Freak, ShoPro, TV Tokyo, and JR Kikaku, as well as head of the anime Yoshikawa.[205] Broadly put, every meeting had three types of agenda items: discussing Pokemon-related events and basic policies in Japan, discussing Shogakukan publication plans, and considering merchandise proposals.[206] For merchandising, the council set the bar high. Fiercely protective of Pokemon's brand equity, Ishihara was unwilling to greenlit an item just because it had a picture of a Pokemon printed on it. To avoid the market being flooded with low-quality goods, Ishihara put very specific demands on the products he evaluated.[169][207] Furthermore, in most cases, the council opted to contract one company for each product category.[208] Because of this, most merchandise proposals were rejected: of the approximately 7,500 applications submitted in 1997, only about 5% was approved.[209]
+
+By March 1998, 35 companies offered licensed Pokemon goods, and there were approximately 700 Pokemon products.[133][210] Tomy manufactured Pokemon toy figures and plush dolls.[211] Bandai made Pokemon gashapon, dolls and ramune-flavored candy in a plastic box in the shape of a Game Boy.[212] Meiji Seika produced Pokemon chocolate snacks and pudding.[133][213] The lucrative franchise provided a much-needed boost to Japan's economy, which was stagnating in what would later be called the Lost Decade.[214][215] An example of a firm that benefited greatly from Pokemon was food manufacturer Nagatanien [jp]. From May 1997, the company began selling Pokemon-branded curry, furikake, and baking mixes.[133][216] In December 1997, Nagatanien was hit hard by the collapse of one of its biggest sales channels, Toshoku, in what was then the third-largest bankruptcy in Japan's postwar history.[217][218] Nonetheless, due to their Pokemon-licensed products, Nagatanien reported net profits in fiscal years '97 and '98, despite having forecasted losses.[216][217][219]
+
+"Dennō Senshi Porygon" incident
+See also: Pokémon episodes removed from rotation
+In the evening of 16 December 1997, the Pokemon franchise was hit by a crisis related to the broadcast of the anime's 38th episode, "Dennō Senshi Porygon" (Computer Warrior Porygon). It was watched by approximately 4.6 million households.[220] In the episode, the cast is transported into a virtual world, accompanied by a Porygon, a digital, human-made Pokemon. While flying through cyberspace, they are attacked by an anti-virus program which mistakes them for viruses, shooting "vaccine missiles" at the group resulting in explosions of bright, rapidly swapping red and blue flashes.[221]
+
+The intense stimuli brought about by the episode triggered a variety of adverse health effects in more than 10,000 viewers,[222] primarily irritated eyes, headaches, dizziness, and nausea.[223] A small part suffered a photosensitive epileptic seizure, manifested in loss of conscious and/or convulsions.[223][224] Hundreds[g] of children were brought to hospitals, although a part of them had recovered enough upon arrival and did not need to be hospitalized. No one died. Broadcasting of Pokemon was halted, and new guidelines were implemented to help prevent similar events from happening.[230] With the show on hiatus, ShoPro and OLM worked on a feature Pokemon film. By the time the incident occurred, its script was already written, and the movie was in the storyboard stage. In mid-January, the staff resumed creating new episodes.[231] The anime series returned on 16 April 1998.[232] The film, titled Pocket Monsters the Movie: Mewtwo Strikes Back (Pokémon: The First Movie), premiered on 18 July 1998, and became the fourth highest grossing film of the year in Japan.[233][234]
+
+Ultimately, the incident did not damage the Pokemon franchise – it in fact grew further during and after the anime's hiatus. While video rental tapes were removed from shelves,[235][236] all other Pokemon products continued to be sold as usual, and customer demand for them remained high.[237][238] Helping matters was a general understanding among businesses that the anime was not canceled, but rather suspended, and many executives (correctly) expected the show to be resumed after precautions had been taken. Supermarkets and other distribution outlets responded calmly to the crisis, and did not remove Pokemon products from their sales floors.[239]
+
+1998–2000: International expansion
+North America
+"When we started this project in Japan, one of the first things I was told was that this kind of thing would never appeal to American audiences. They said, 'Because the characters are in a very Japanese style, you cannot sell them to Americans'. So from the very beginning, I never thought there would be an English version. Now, it's just as popular in the United States [as in Japan], and I realized that we shouldn't always believe the opinions of conservative marketers."
+
+Shigeru Miyamoto, August 1999[240]
+Possibly the first official to show interest in a North American launch of Pokemon was Minoru Arakawa, founder and then-president of Nintendo of America (NoA). Arakawa visited Japan to participate in Shoshinkai 1996, held 22–24 November. It was around this time when he first played one of the three Pokemon titles. He thought the games were promising, but Nintendo of Japan (NoJ) had no plans at the time to release them elsewhere. He returned to America with a few cartridges and tested the game on his employees – they did not believe it would work in the US.[241] At the time, role-playing games (RPGs) were not very popular outside Japan,[242] and NoA executives believed that American children did not have the attention span for such a complex title.[243] Americans were said to be more interested in sport- and action-oriented games, preferably with realistic graphics.[16][244] Japanese people, by contrast, were alleged to care more about characters and plot.[245] Up to that point, few Japanese properties had been successfully mainstreamed in the US, and if they were, it was alleged to be on account of having been properly Americanized: Mighty Morphin Power Rangers was considered a prime example of this.[246] Visually, Pokemon was believed to be too kawaii, or cute. It was assumed that Pokemon could not succeed on cute alone – it must also be cool.[247][248] In an effort to enhance the franchise's coolness, NoA considered a graphical redesign and contracted a few external artists to create some test-designs for the American market.[243][248] The mockups they proposed included 'graffiti style' drawings,[248] 'beefed-up' and more muscular looking Pokemon,[249] and a new Pikachu that looked like "a tiger with huge breasts".[247] Arakawa concluded that it "didn't work",[248] and by that time, the anime had begun its production in Japan, leading NoA to conclude it was too late for a graphical revamp anyway.[243]
+
+Of pivotal importance to Pokemon's global expansion was Alfred R. Kahn, CEO of US-based 4Kids Entertainment, NoA's licensing agent since 1987.[250][251] Convinced of the franchise's potential, Kahn agreed to invest an undisclosed sum in return for both the anime and licensing rights.[242] Pokemon became one of the first Japanese media franchises in which both the localization of the anime and the licensing of merchandise was handled by a single company, as well as a non-Japanese company.[252] Kahn suggested to use the short version of the name, "Pokémon", adding an acute accent (´) over the e to assist with pronunciation and "give it a little flair".[14] NoJ president Hiroshi Yamauchi officially approved the project in late November,[253] and subsequently announced it at Space World 1997.[254] However, three weeks later, the "Dennō Senshi Porygon" incident happened, which Kubo felt made even more people resistant to the idea of an overseas introduction.[255]
+
+Market research turned back negative: American kids reportedly did not like Pokémon.[256] Arakawa ignored the study and, convinced of the franchise's potential, allocated an enormous budget to Pokémon's launch. The exact amount was not disclosed, but was reportedly equal to or more than $50 million (c. $96.46 million in 2024), approximately the same amount as the launch budget of the Nintendo Entertainment System in 1985. Arakawa admitted that it was "quite a bit of money", but NoA "had been doing well for several years, so we had a lot of money to spare". He opined that if Pokémon would be as successful in the US as it had been in Japan, "an investment of 1 would turn into 100".[257] NoA and 4Kids proceeded to devise a strategy on how to localize Pokémon for the United States.[243] Arakawa appointed Gail Tilden to lead the project, prompting her to leave her position at Nintendo Power magazine.[258] Tilden said that they "decided to make an all-out effort to repeat the phenomenon in the Western world".[26] In two press releases, NoA self-described Pokémon's marketing campaign as "aggressive".[259][260]
+
+The localization of the Pokémon anime was done by 4Kids, and directed by Norman J. Grossfeld. Grossfeld strongly believed that the anime should be Americanized.[261] At NATPE 1998, he asked ShoPro for a "kind of carte blanche, to let me change the show as I think would work for this market", to which ShoPro agreed.[262] However, no national TV station was interested in buying the anime or financing its localization.[14][242] Kahn then decided to self-finance Pokémon's production costs, despite realizing this "could very well bring down 4Kids" if the show would fail.[262] According to Kahn, they "spend a fortune" on the localization.[25] To have it broadcast in syndication, 4Kids offered the show for free to local TV stations across the country, in exchange for a portion of the advertising revenue.[14][242] NoA assisted, persuading dozens of stations to carry the series by offering to buy some of their advertisement space, spending a total of $5 million (c. $9.65 million in 2024).[244][262] Despite all this, most broadcasters were still reluctant to carry Pokémon, with Grossfeld experiencing difficulties getting through their "preconceived notions or their snobbery for Western-produced animation over something from Asia".[262] At the time, anime had not yet found mainstream popularity in the West. Contemporary news reports cited Sailor Moon[VI] as an example of an anime that had failed to catch on with American youth.[h] Still, with NoA's help, 4Kids ultimately succeeded in contracting 112 broadcasters for Pokémon,[268] reaching "about 85 to 90 percent"[269] of television households. However, many broadcasters gave it off-peak time slots, with starting times like 06:00 or 06:30.[14][244] Prior to the late 1990s, this was the case for many anime in the US.[252]
+
+Grossfeld came up with the advertising slogan "Gotta catch 'em all!" as the English equivalent to the Japanese Pokemon GETTO daze~! (ポケモンゲットだぜー！, Get (the) Pokémon!).[270][271] The phrase "miraculously managed to gain approval" by the Federal Communications Commission (FCC), which normally prohibits the use of injunctions in ads directed at children (e.g. "You must buy this!"). While the tagline does sound commanding, the FCC reasoned that the act of catching is at the core of Pokémon's play. Therefore, the phrase was allowed.[272] The series' theme song was written by John Loeffler and John Siegler, and performed by Jason Paige.[273] In commissioning the track, Grossfeld specifically requested the song's chorus to be written around the "Gotta catch 'em all" phrase, firmly embedding the slogan into the theme.[271]
+
+While NoA and 4Kids were allowed a fair degree of liberty in their localization of Pokémon, the Japanese copyright council, headed by Ishihara, had the last say over it. All decisions regarding adjustments and promotion had to gain final approval of the Japan side.[274] This included all of the merchandise, for which a 'two-step system' was created. All (aspiring) licensees in North America were to send their merchandise proposals to 4Kids.[242] Staff of both 4Kids and NoA then made a pre-selection and send the approved proposals to Japan, where the council made the final decision. Many submissions were bounced at the US stage, and thus never got sent to Japan. Tilden noted that processing all license applications, and mailing all approved prototypes and their documentation to Japan, was a lot of work. Arakawa did consider streamlining the process by moving someone from Japan to the US, but no person could be found who was as competent as Ishihara.[275]
+
+The Pokémon anime was first broadcast on 7 September 1998.[276][277] Pokémon Red Version and Blue Version were released three weeks later, on 28 September 1998.[278] To localize the card game, Nintendo contracted Wizards of the Coast, the creator of Magic: The Gathering.[279] The Pokémon Trading Card Game was officially launched nationwide on 9 January 1999, although pre-sold in select stores in December.[280] Coinciding with the North American launch of Pokémon was the release of the Game Boy Color on 23 November 1998.[281]
+
+Other regions
+The American version of the Pokémon anime started broadcasting in Australia and New Zealand on 28 September 1998. Red and Blue were subsequently released there on 23 October. Various territories in Asia followed: the anime series debuted in Hong Kong on 16 November, in Taiwan on 23 November, in Shanghai on 24 November, in Beijing on 10 January 1999, and in South Korea on 14 July 1999.[282]
+
+Outside North America, 4Kids distributed the anime in cooperation with Brian Lacey of Lacey Entertainment.[283][284] The series was presented at MIP TV, in Cannes, France, from 3–8 April 1998.[285] Broadcasters were initially not interested due to its Japanese origins, and preferred to wait and see how the anime would fare in the US. After its American success, Lacey received inquiries about the series throughout 1999 from multiple international broadcasters.[283][286] Lacey noted that, in Europe, this was a stark contrast compared to previous years: "I was trying to sell this sort of stuff for years and buyers would tell me they were moving away from Japanese animation shows", he said.[286] In October 1999, the franchise was launched in the European key markets of Germany, the United Kingdom, France, and Spain.[287] The anime started broadcasting in Denmark, Norway, and Sweden in December 1999.[286] In 2000, broadcasting rights for the first season were secured by TV stations in South Africa, Russia, Iceland, and Finland.[288] In Israel, the anime debuted in February 2000. For unclear reasons, Red and Blue were not officially released there. Thriving only on the strength of the TV series, The First Movie, the cards, and imported video games, the Israeli Pokémon still became a success.[289][290]
+
+By the end of 2000, Pokémon games had been released in 70 countries, the anime was broadcast in 51 countries, the films were released in 33 countries, and the cards had been translated into 11 languages.[291]
+
+1999–2000: Pokémania
+In North America, the debuting Pokémon franchise quickly rose to success. Red and Blue sold 200,000 copies in its first month. By December 1998, the Pokémon anime had become the highest-rated syndicated children's show during the weekdays.[283] This attracted the attention of two media companies: Warner Bros., co-owner of The WB channel; and Saban Entertainment/Fox Family Worldwide, owners of the Fox Kids channel. A bidding war ensued between the parties, which was won by Warner Bros.[292] On 13 February 1999, Pokémon launched on the Kids' WB national television block. The debut episode became the most watched premiere in Kids' WB's history.[293] In European countries, the anime received similar levels of success. For example, in Germany, "a highly competitive kids market", Pokémon was purchased by RTL 2. The show's popularity bolstered the entire program block, more than tripling its viewers. Andrea Lang, RTL 2's editor of cartoons and children's programs, said: "We were speechless. We've never had a comparable success".[286] By March 1998, half a year before Pokémon's overseas launch, 499 million Pokémon cards had been produced. By March 1999, the total number of cards shipped reached 764 million. By March 2000, this figure would grow further to 4.255 billion cards, manufactured in both Japanese and American factories.[165]
+
+By April 1999, there was a general consensus in the US that Pokémon had become a phenomenon and the newest children's fad.[VII] By some, the fad was referred to as "Pokémania",[VIII] including journalists of Time[26] and USA Today.[301] In the US, severe scarcity occurred of Pokémon goods,[24] especially Pokémon cards,[302] causing companies to miss profits.[303] A Milwaukee Journal Sentinel article, published on 3 August 1999, cited a Toys "R" Us manager as saying that a supply of 600 booster packs would last 24 hours. The CEO of one card distributor stated that they were "thousands of boxes behind" on orders. In the same article, a Wizards spokeswoman stated that more employees and printers had been hired to increase card production.[304] However, near the end of the month, a different Wizards spokeswoman told The Washington Post that they had "exhausted most of the card-printing capacity of the United States".[16] Similarly, USA Today reported in November 1999 that factories making Hasbro's Pokémon toys had expanded production by 20 times, but demand still exceeded supply.[305] In Europe, scarcity of Pokémon merchandise also occurred.[286]
+
+In part due to the Pokémon craze, Nintendo saw a 250% increase in profits in 1999 compared to the previous year,[16] reaching a six-year high.[306] The Pokémon franchise accounted for over 30% of Nintendo's revenue that year.[307] Pokémon's popularity also caused a sharp increase in sales of the Game Boy line.[243][308][309] The financial windfalls came at a time when Nintendo lost dominance in the home console market, with the Nintendo 64 being outsold by Sony's PlayStation.[310][311][312] The global success of Pokémon compensated this loss somewhat.[IX] Buckingham & Sefton-Green went even further, writing in 2004: "while Nintendo is now among Japan's most profitable corporations, it could be argued that the company would have struggled to survive without Pokémon".[317]
+
+4Kids, initially a little-known firm,[242][250] expanded thirty times in revenues,[318] and was named the fastest-growing company in America in the 4 September 2000, issue of Fortune magazine.[251][319][320] Many businesses that timely obtained a Pokémon license reaped considerable profits.[318][321] In the summer of 1999, a massive run on stocks of publicly traded Pokémon licensees caused their value to increase dramatically. However, by November, most investors were shorting their shares. Realizing that Pokémon was a fad that would peak and fall at some point, investors were bearish about its prospects.[322]
+
+Pokémon: The First Movie premiered in North America on 12 November 1999, and in Europe the following year. Despite being negatively received by many Western critics, it became one of the most successful Japanese animated films of all time.[323] In the United States, November 1999 was estimated to have been the peak of Pokémania.[X] Supporting the American release of The First Movie was a promotional action with Burger King, one of the largest in the history of the fast-food industry.[328][329][330] The success of the promotion resulted in supply issues; restaurants often ran out of Pokémon toys to include with their meals.[331][332] On 27 December,[333] Burger King recalled its Poké Ball toy after a 13-month-old girl died suffocating on one.[334][335]
+
+Pokémon Gold and Silver, the successors to Red/Green/Blue, were released in North America on 15 October 2000.[336] In Europe, they were released on 6 April 2001.[337]
+
+The Pokémon Company and Pokémon USA established
+
+Pokémon Center Mega Tokyo, a large Pokémon merchandise shop in Sunshine City, Ikebukuro.[338]
+On 23 April 1998, Pokémon Center Co. Ltd. was founded as a joint venture by Nintendo, Creatures, and Game Freak.[339] It was initially formed for the management of specialized merchandise stores called Pokemon Centers, of which the first location opened in Nihonbashi, Tokyo, on 18 July 1998.[340][341] Throughout the years, multiple Japanese Pokémon Centers would open and close. As of January 2024, a total of 24 Pokémon merchandise shops exist in Japan.[342] An American Pokémon Center also existed in New York City from 2001[343] to 2005.[344] It was then remodelled into Nintendo World,[345] later renamed Nintendo New York.[346]
+
+After the release of Gold and Silver, Tsunekazu Ishihara began setting out a number of long-term goals for the Pokémon franchise, which included releasing a movie every year.[i] As part of Ishihara's plan, the Pokemon Center Co. Ltd. was reformatted into the Pokémon Company (TPC), and officially renamed in October 2000.[340][347] The goal of TPC is to centralize and streamline the global management of Pokémon.[348] Satoru Iwata, who had joined Nintendo of Japan in June, was involved with the company's creation, which was one of his first jobs at Nintendo.[347]
+
+In February 2001, Pokémon USA (PUSA) was established, an affiliated firm of the Pokémon Company.[340] The company's first president was Tatsumi Kimishima (who would later become president of NoA, and subsequently president of NoJ).[349] In 2002, Kimishima was succeeded by Akira Chiba.[350]
+
+2001–2006: End of the craze, business reforms
+In North America, Pokémania peaked in 1999, slowing down throughout the next year.[351] On 29 April 2000, the anime was bumped off Kids' WB's No. 1 spot after holding it for 54 weeks. Around the same time, Pokémon was surpassed at Fox Kids by its rival Digimon.[352] In Europe, the craze peaked in 2000.[353][354] On 20 January 2001, The New York Times reported that Pokémon's trading card market had collapsed in the US.[355] A June 2001 survey in the United Kingdom confirmed that Pokémon's popularity was waning there.[356] Tobin (2004) wrote: "By the summer of 2001, Pokémon's shelf space in Japanese and U.S. toy stores was but a fraction of what it enjoyed in the fall of 1999".[357] By the end of 2001, Pokémania was fading globally, and by 2002, the fad was largely over.[358]
+
+From 2000 to 2002, Game Freak developed Pokémon Ruby and Sapphire, the successors to Gold and Silver, for the newly released Game Boy Advance. Masuda, who was appointed to assistant director during Gold and Silver,[359] was promoted to director for Ruby and Sapphire, with Tajiri making himself executive director.[360] Masuda was concerned that the end of Pokémania indicated the end of Pokémon as a whole: "After Gold and Silver came out, it was a huge hit around the world, but shortly after everyone was saying, 'That's it. The Pokémon fad is over! It's dead!'."[361] Determined to keep the franchise going, GF not only wanted to "prove people wrong" with Ruby and Sapphire, but already started planning their sequels: Diamond and Pearl (2006). They also began planning remakes of older installments, starting with FireRed and LeafGreen (2004), remakes of the original Red and Green.[361]
+
+Ruby and Sapphire were released in Japan on 21 November 2002, and in the rest of the world the next year. The games introduced 135 new Pokémon, bringing the total amount to 386. Because of this, Golin Harris, NoA's ad agency,[243] advised them to move away from the "Gotta catch 'em all!" slogan. They reasoned that if new, younger players were drawn into the franchise with Ruby/Sapphire, they would find the concept of "catching them all" to be a daunting if not impossible task if they didn't also have Red/Blue/Yellow and Gold/Silver/Crystal.[362] Dockery (2022) noted that "from both a marketing perspective and, really, a legal perspective, it would not be to the company's advantage to keep pushing that slogan".[362]
+
+By 2002, the relationship between Pokémon USA (PUSA) and Wizards of the Coast had deteriorated. That year, at least seven high-profile employees were poached from Wizards by PUSA: Wizard's former art director, senior graphic designer, business manager, events marketing director, project management director, and two vice presidents. All employees had signed NDAs.[363][364] In March 2003, PUSA told Wizards that their contract would not be renewed, and that Wizards would not be distributing the new Ruby & Sapphire card set.[365] Later, Wizards was also prohibited from releasing the sets Jamboree and Legendary Collection II.[366] Notably, Jamboree was the first set containing cards designed by Wizards themselves. As considerable time and money was invested into creating them, Wizards was upset when they were barred from putting them out. On 1 October 2003, the day after their agreement expired, Wizards filed suit against Pokémon USA, alleging that the defendant had seized their intellectual property and trade secrets, and illegally tried to gain advantage over them in the competitive trading card market.[363][364] The case was settled out of court.[367] Jamboree and Legendary Collection II have remained unreleased.[364]
+
+In October 2001, 4Kids Entertainment signed a new contract with PUSA, continuing to serve as Pokémon's exclusive licensing agent and anime localizer.[348] On 23 December 2005, it was announced that the agreement would not be renewed and would expire on 31 December, with PUSA moving all licensing in-house.[368][369] The localization of the anime would be done by PUSA in cooperation with TAJ Productions. PUSA proceeded to replace almost all of the original English voice actors, who were still under contract with 4Kids.[370] This decision "raised the ire of fans and the actors themselves".[371] According to Stuart Zagnit, who voiced Professor Oak, the recasting was done to cut back on costs.[370]
+
+In March 2003, Pokémon UK was established in London as a British representative of the Pokémon Company.[340]
+
+2006–2012: Generation IV–V, TPCi established
+Following Ruby and Sapphire, Pokémon Diamond and Pearl were released for the Nintendo DS on 28 September 2006, in Japan[372] and on 22 April 2007, in North America.[373] A third version, Pokémon Platinum, was released on 28 September 2008, in Japan[374] and on 22 March 2009, in North America.[375] They form the fourth generation (Generation IV) in the Pokémon video game series.[376] Diamond and Pearl were designed based on the DS's various features such as its Wi-Fi capabilities and slot for Game Boy Advance cartridge.[377] Pokémon president Tsunekazu Ishihara dubbed the games as the "ultimate" Pokémon titles because they allowed the player to trade and battle Pokémon including every Pokémon from previous iterations globally through WiFi, as opposed to previously only able to do so locally and with fewer Pokémon.[378] The games' characters are 2D and the environments are rendered in 3D, and it is considerably difficult to differentiate them because Game Freak designed them this way to innovate the graphics while also retaining the traditional game style and feel.[379][380]
+
+In Platinum, the developers focused on changing the most essential elements from Diamond and Pearl to maintain continuity with the previous games. Director Junichi Masuda stated that since they designed Diamond and Pearl as the "ultimate" Pokémon titles, it was only necessary to make Platinum "even stronger" than them. They approached this by designing the "Origin Forme" for the legendary Pokémon Giratina, ensuring that the design would appear significantly different from its regular form in Diamond and Pearl and to express the games' core antimatter and Distortion World concepts.[381] The title Platinum was chosen to reflect a precious material that "shines" and is different from diamond and pearl and their associations of "love" and "happiness" respectively.[382]
+
+Pokémon HeartGold and SoulSilver were released on 12 September 2009, in Japan and on 14 March 2010, in North America as part of Generation IV.[383][384] They are remakes of Gold and Silver,[385] aiming to balance familiarity for the original games' players and new content for newcomers.[386] The titles reflected the theme of the bond between trainers and their Pokémon.[386] The developers faithfully recreated the original story and added elements from the Generation IV games and Yellow, the latter of which was released concurrently with Gold and Silver.[386][387]
+
+In 2009, Pokémon USA and Pokémon UK merged to form the Pokémon Company International (TPCi).[12] This subsidiary of the Pokémon Company (TPC) has since managed the Pokémon franchise outside of Asia.[13]
+
+In Generation V, Pokémon Black and White were released on 18 September 2010, in Japan for the DS[388] and on 6 March 2011, in North America.[389] The games feature enhanced visual effects and increased use of 3D graphics. The developers excluded old Pokémon and strategies, while introducing over 150 new Pokémon to evoke a sense of novelty and to provide new players a more "leveled playing field" against old players.[390] The games seek to attract both new players and returning players through its detailed walkthrough and the addition of C-Gear (a real-time communication tool to improve the trade and battle experiences), respectively.[391]
+
+The games were followed by Pokémon Black 2 and White 2, which were released on 23 June 2012, in Japan[392] and on 7 October 2012, in North America.[393] The games were developed for the DS rather than the more powerful Nintendo 3DS to maintain continuity with the game world in Black and White and they were presented from a different perspective in the storyline.[394] Since the games are their first sequels, director Masuda explained that they have strived to find a "fine balance" to appeal to both newcomers and returning players by implementing introductory explanations, and by placing a Pokémon Center in the first in-game city, they were able to further this approach by providing newcomers with a detailed walkthrough and also returning players with new updates.[395] During development phase, director Takao Unno revealed that they had experimented with a 100-player multiplayer experience via their communication feature Entralink drawing from their vision of players "sharing the same space, same time and same game" but this feature was never implemented due to technical limitations.[396]
+
+2013–2018: 3D, Generation VI–VII, Pokémon Go
+In Generation VI, Pokémon X and Y were released worldwide for the 3DS on 12 October 2013,[397] and they are the first games to be released in this way. The developers focused on the themes of "beauty", "bond", and "evolution", and it is based on these themes that they created the games' core mechanic where Pokémon could achieve a higher form of evolution by strengthening their bonds with trainers; however, to maintain game balance, they limited this feature to a special, temporary phenomenon.[398] The games' shift to fully 3D graphics allowed the player to freely manipulate the camera angles although due to technical limitations objects far away are rendered in lower polygon models, and producer Hitoshi Yamagami addressed to 2D players that "Game Freak [developers are also] big fans of 2D graphics... So there are some elements in there that I [Yamagami] think fans of 2D will appreciate as well."[399] When asked about the Horde battle and Sky battle types, he stated that Horde battles are to supplant the roles of "really strong pokemon [sic]" to help the player more easily progress through the games and also to add "more excitement to the battles and a sense of danger", and that they added the Sky battles to take advantage of the games' 3D camera angels capabilities.[400]
+
+Pokémon Omega Ruby and Alpha Sapphire were released worldwide for the 3DS on 21 November 2014[401] and on 28 November 2014, in Europe as part of Generation VI.[402] They are remakes of Ruby and Sapphire.[403] The developers adopted X and Y's core game mechanic and added enhanced 3D graphics.[404] According to director Masuda, they reviewed the original mechanic and concept and expressed them using modern hardware, such as replacing the original PokéGear feature for the enhanced versions BuzzNav and DexNav to more effectively provide information enabled by the games' hardware capabilities. They seek to explore the concept of Pokémon coexisting with humans and nature, revisiting the concept behind original games' setting, which translated to "richness or abundance in nature and bonds between people and nature" in Japanese. To appeal to the newer audience in X and Y, the developers decided to connect the story with X and Y by further exploring their core mechanic.[405]
+
+In Generation VII, Pokémon Sun and Moon were released worldwide for the 3DS on 18 November 2016, and on 23 November 2016, in Europe.[406] The developers chose Hawaii for inspiration due to its distinctive warm sunlight and clear moonlight and unique biomes that helped support the games' regional Pokémon variance concept. Ohmori said, as director, he aimed to focus on the concept of "Pokémon as these living creatures, [and really focus] on them being alive." Having the release date on the 20th anniversary of Pokémon in mind, he treated this project as a "celebration of that life, and to really express this respect for life". As he contemplated about life and its origins, Ohmori considered the significance of the Sun, enabling life with its light, and the Moon's impact on certain species' reproduction. He explained how the Sun, the Moon, and the Earth "work [together] to influence [one another], and life as a result grows and flourishes based on [this] relationship."[407]
+
+Ohmori stated that with the innovation to 3D in X and Y the designers decided to examine more minor aspects concerning with the Pokémon themselves such as their motions, such as when they designed the games' first starter Pokémon to capitalize on its owl-like characteristics with its head "twists round and round". With the 3DS technologies, the developers are able to design the characters to be more expressive as themselves including different facial expressions and reactions. In addition to portraying Pokémon harmoniously coexisting with people and vice versa in the games, the developers replaced the traditional Gym mechanic with Island Trials, deepening the players' connection with the story and their Pokémon.[408] The enhanced versions Pokémon Ultra Sun and Ultra Moon were released worldwide on 17 November 2017.[409] The games added an alternate storyline and additional characters, Pokémon, and other features.[410] Developer Shigeki Morimoto revealed that they were developed by the younger staff members and veterans so the more veterans can prioritized on developing more important titles,[411] and the developers considered them to be their culmination with the 3DS.[412]
+
+Pokémon Go
+
+Players during the Pokémon Go Fest in Chicago in 2017
+In 2016, the Pokémon franchise spawned a second worldwide fad with the release of Pokémon Go, a mobile augmented reality game. The app originated as a Google April Fools' Day joke in 2014: the "Google Maps Pokémon Challenge". The prank was conceived by Tsunekazu Ishihara and Satoru Iwata.[413] On Ishihara's initiation,[414] the hoax was turned into an actual video game developed by Niantic. Ishihara was a fan of Niantic's previous transreality game, Ingress, and saw the game's concept as a perfect match for Pokémon.[414]
+
+Through in-game purchases, the game generated more than $160 million by the end of July 2016,[415] with App Annie reporting that Pokémon Go had generated around $10 million in revenue every day that month.[416] The same month, Sensor Tower reported that the game had passed more than $200 million in worldwide revenue, beating every existing record set by Clash of Clans and Candy Crush by a wide margin.[417] The average daily usage of the app on Android devices in July 2016 exceeded that of Snapchat, Tinder, Twitter, Instagram, and Facebook.[418] By 2 September 2016, Pokémon Go had generated more than $440 million in worldwide revenue, according to Sensor Tower.[419] By 30 September, it had received 500 million downloads and grossed $470 million in 80 days, according to market research firm Newzoo.[420] Pokémon Go reached the milestone of $600 million in revenue after only 90 days on the market, becoming the fastest mobile game ever to do so.[421]
+
+Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! were released for the Nintendo Switch on 16 November 2018. They are part of Generation VII.[422] Inspired by Pokémon Yellow, the games seek to introduce newcomers and a new generation of players (particularly Pokémon Go players) to the Pokémon series in addition to catering old players. As such, the games feature similar capture mechanics to Go where the player throws Poké Balls to catch wild Pokémon rather than battling them like traditional Pokémon games. In addition, the games feature the same setting and characters as the first generation of games and the original animated series, and include exclusively the original 151 Pokémon to further appeal to their targeted audience.[423][424] The only new Pokémon featured are Meltan and Melmetal.[425]
+
+2019–present: Generation VIII–IX, open-world gameplay
+Generation VIII[426] debuted with the release of Pokémon Sword and Shield on 15 November 2019, for the Switch.[427] Director Shigeru Ohmori stated that they designed the games based on what they believed of the biggest Pokémon theme of becoming/being "the greatest or strongest", which was expressed in the games' Dynamax / Gigantamax Pokémon core mechanic and the games' increasingly powerful software and hardware capabilities. Ohmori further revealed that through developing the Let's Go games as research projects for the Switch, they were able to gain valuable experiences and knowledge to develop Sword and Shield. He noted that they took advantage of the Switch's high resolution and TV connectivity to implement the games' gigantic-size core Pokémon mechanic. They envisioned the games' setting to be a "wide-open space" that is different from the traditional route systems and is constantly changing where the player can meet and explore with other players.[428]
+
+Many pre-existing Pokémon are not available in Sword and Shield. This "Dexit", as it was called, led to fan backlash.[429] Sword and Shield were the first Pokémon games to receive DLC expansions: Part 1—The Isle of Armor, and Part 2—The Crown Tundra; they were released on 17 June 2020, and 22 October 2020, respectively.[430] They include additional storylines, places, Pokémon, characters, and other features.[431]
+
+In 2020, the COVID-19 pandemic broke out. The resulting widespread ennui and excessive leisure time inspired a resurgence in popularity and interest of Pokémon cards,[432] which was further popularized by various YouTubers and other influencers, such as Logan Paul.[433][434] The craze resulted in severe supply shortages, and customers' inappropriate and obsessive behavior raised safety concerns in many retail outlets. Pokémon cards' values skyrocketed, prompting collectors to submit cards and overwhelm card grading agencies.[435][436] The Pokémon Company responded by reprinting impacted products at maximum capacity to ensure price stabilization and general accessibility.[437]
+
+Remakes of Diamond and Pearl, Pokémon Brilliant Diamond and Shining Pearl were released on 19 November 2021, for the Switch as part of Generation VIII.[438] They are the first core series games to be developed by a third-party developer, ILCA, rather than Game Freak.[439] The developers revealed that the games would not assume the anticipated style of the Let's Go Games and feature traditional game mechanics.[440] Pokémon intends to celebrate their 25th anniversary with the release of the remakes by revisiting old games and mechanics, which they faithfully reproduced with enhanced 3D graphics.[441][442]
+
+Pokémon Legends: Arceus was released on 28 January 2022, for the Switch as a prequel to Diamond and Pearl.[443] It is part of Generation VIII.[444] The game "represents a new approach for the Pokémon video game series" as it transitions from traditional RPG mechanics to add real-time elements in their games. Unlike traditional Pokémon games, the player can catch Pokémon by throwing a Poké Ball in real-time rather than triggering a battle; however, they can still choose the latter to weaken it for capture. Many in-game aspects, particularly its landscape, heavily resemble those of The Legend of Zelda: Breath of the Wild.[445][446][447]
+
+Generation IX[448] was introduced with the release of Pokémon Scarlet and Violet for the Switch on 18 November 2022. The games are the first Pokémon games to feature an entirely open-world experience as opposed to the partially open-world experience in previous Pokémon games such as Sword and Shield, and it also departed from the traditional gym mechanics and the elite four battles to opt for unique road quests. The games' improved multiplayer experience allowed for up to four players to travel together.[449][450] Their DLC, The Hidden Treasure of Area Zero, consists of two parts, The Teal Mask and The Indigo Disk; The Teal Mask was released on 12–13 September 2023[451] and The Indigo Disk was released on 14 December 2023.[452] An epilogue to The Hidden Treasure of Area Zero was released on 11 January 2024.[453]
+
+On 27 February 2024, TPCi announced Pokémon Legends: Z-A, set to release in 2025 for the Switch.[454][455] It is part of Generation IX. A successor to Legends: Arceus, this game returns to the Kalos region seen in X and Y.
+
+By 2024, the Pokémon franchise had earned a total of 100 billion US dollars, making it the highest-grossing media franchise ever.[15]: 53 
+
+Media
+Video games
+Main articles: Pokémon (video game series) and List of Pokémon video games
+Pokémon video games have been released in a wide variety of genres. The role-playing games (RPGs) developed by Game Freak are considered the core series of the franchise.[456][457][458] Various spin-off games also exist, such as Pokémon Mystery Dungeon, a roguelike RPG series, Pokémon Ranger, an action RPG series, and Detective Pikachu (2018), an adventure game. Pokémon games, in particular the core RPGs, are commonly classified in generations. For example, Junichi Masuda referred to Diamond and Pearl (2006) as Gen 4,[459] and X and Y (2013) as the 6th generation.[460]
+
+Until 2011, Pokémon games were released exclusively on Nintendo's consoles. With the rise of the smartphone during the 2010s, the Pokémon Company also began developing, publishing, and licensing Pokémon titles for the mobile phone market, most notably Pokémon Go (2016), an augmented reality game developed by Niantic that spawned a worldwide craze in the summer of 2016.[420][421]
+
+According to the official website of the Pokémon Company, as of March 2024, over 480 million Pokémon game units have been sold worldwide.[461]
+
+Trading card game
+Main articles: Pokémon Trading Card Game and List of Pokémon Trading Card Game sets
+
+Palkia, a card from the Diamond and Pearl Base Set
+The Pokémon Trading Card Game (PTCG) was one of the first collectable card games (CCGs) in Japan. It was inspired by Magic: The Gathering.[148][149][150] In the card game, the players use a 60-card deck featuring Basic and evolved Pokémon, Energy cards, and Trainer cards to help them knock out the opponent's Pokémon, drawing prize cards and winning the game.[462] Cards are classified into various levels of rarity, ranging from Common to Rare Holofoil with a holographic illustration. Rare cards, including limited edition, exclusive cards, and older cards, are highly valued among collectors due to their scarcity.[463][464]
+
+According to the official website of The Pokémon Company, 64.8 billion cards have been produced as of March 2024.[461]
+
+Anime
+Main articles: Pokémon (TV series) and List of Pokémon films
+As of 2025, the anime consists of over 1,300 episodes across 8 series in Asia, and 27 seasons internationally. Its newest series, Pokémon Horizons, started airing on 14 April 2023. The anime originally focused on Ash Ketchum and his travels across the Pokémon world with his partner, Pikachu. They were retired as protagonists after the 25th season,[465] and Pokémon Horizons introduced two new protagonists, Liko and Roy.[466] A total of 23 anime films have been released, the most recent being Pokémon the Movie: Secrets of the Jungle (2021).
+
+Spin-off series from the anime have also been produced, including a variety show titled Weekly Pokémon Broadcasting Station (週刊ポケモン放送局, Shūkan Pokemon Hōsōkyoku), which aired on TV Tokyo from 2002 to 2004 and aired in English as part of Pokémon Chronicles.[468][469] Three television specials have been released. 27 short films starring Pikachu were produced, primarily preceding the films.[470] Various animated mini-series also exist.
+
+
+
+
+# The Legend of Mew and Mewtwo
+
+Mew is said to contain the DNA of every Pokémon in existence.
+Scientists in the Pokémon world cloned Mew in an attempt to create the ultimate Pokémon, resulting in Mewtwo.
+However, Mewtwo’s heart was hardened by the experiments, causing it to distrust humans and become incredibly powerful.
+
+---
+
+# The Legend of Lugia
+
+Lugia is known as the guardian of the seas. It resides deep at the bottom of the ocean to avoid accidentally causing massive storms with its mere presence.
+Legends say that when Lugia appears, it brings balance to chaotic storms.
+
+---
+
+# The Legend of Ho-Oh
+
+Ho-Oh, the rainbow Pokémon, resurrected the three Legendary Beasts (Raikou, Entei, and Suicune) after they perished in a burning tower.
+Seeing Ho-Oh flying across the sky is said to grant eternal happiness.
+
+---
+
+# The Legend of Rayquaza
+
+Rayquaza is a Legendary Dragon/Flying Pokémon that lives in the ozone layer.
+It intervened in the battle between Kyogre and Groudon, calming their devastating feud and restoring peace to the world’s climate.
+
+---
+
+# The Creation Myth: Arceus
+
+Arceus, also known as "The Original One," emerged from an egg in a place where there was nothing.
+Arceus shaped the universe and created the Legendary trio Dialga (time), Palkia (space), and Giratina (antimatter).
+It then created the Lake Guardians (Azelf, Uxie, and Mesprit) to bring knowledge, willpower, and emotion to all living beings.
+
+---
+
+# The Story of Dialga and Palkia
+
+Dialga controls the flow of time, while Palkia controls space itself.
+The two Pokémon must be kept separate to avoid warping reality.
+In the Sinnoh region, the Spear Pillar atop Mount Coronet is said to be the point where Dialga and Palkia’s dimensions intersect.
+
+---
+
+# The Distortion World and Giratina
+
+Giratina was banished to the Distortion World due to its violent nature.
+This alternate dimension is a surreal landscape with reversed gravity and floating platforms.
+Giratina acts as a balancing force between the real world and antimatter.
+
+---
+
+# The Legend of Zygarde
+
+Zygarde is a Legendary Pokémon from Kalos tasked with monitoring the ecosystem.
+If the ecosystem falls into disorder, Zygarde appears to restore balance.
+At 50% Forme, it resembles a giant snake; at Complete Forme, it becomes a mighty mech-like guardian.
+
+---
+
+# The Legendary Beasts
+
+Raikou represents the lightning bolt that struck the Brass Tower in Ecruteak City.
+Entei represents the fire that burned the tower.
+Suicune represents the rain that extinguished the flames.
+They were resurrected by Ho-Oh and roam Johto.
+
+---
+
+# Pokémon and Human Connection
+
+In ancient times, Pokémon and humans lived together as equals.
+Legends suggest that some humans even evolved from Pokémon ancestors.
+This is hinted at in Sinnoh's Canalave Library, which preserves myths of the Pokémon world.
+
+---
+
+# The Mystery of the Unown
+
+The Unown are mysterious Pokémon shaped like letters and punctuation.
+They are said to communicate telepathically and may be connected to the very fabric of reality.
+
+---
+
+# The Curse of Spiritomb
+
+Spiritomb was formed by the fusion of 108 malevolent spirits, trapped inside an Odd Keystone as punishment for their misdeeds.
+
+---
+
+# Darkrai and Cresselia
+
+Darkrai is said to cause nightmares to defend itself, while Cresselia brings sweet dreams.
+They represent the balance of dreams and nightmares in the world.
+
+---
+
+# Legendary Birds of Kanto
+
+Articuno (ice), Zapdos (electric), and Moltres (fire) are the Legendary Birds of Kanto.
+They are said to maintain the natural balance of weather and climate across the region.
+
+---
+
+# The Forces of Nature
+
+Tornadus, Thundurus, and Landorus are Legendary Pokémon that govern wind, lightning, and fertile lands.
+They originated from Unova and have special Therian Forms that enhance their powers.
+
+
+# Pokémon Red and Blue
+
+- Pokémon Red and Blue were first released in 1996 in Japan as Pokémon Red and Green.
+- In the original games, only 151 Pokémon were available.
+- MissingNo. (Missing Number) is a famous glitch Pokémon that appears when the game's memory is corrupted.
+
+---
+
+# Pokémon Yellow
+
+- Pokémon Yellow was inspired by the anime. Pikachu follows the player around instead of staying inside a Pokéball.
+- Pikachu can show emotions like happiness or anger depending on how the player treats it.
+
+---
+
+# Pokémon Gold and Silver
+
+- Introduced 100 new Pokémon (Johto Region).
+- Included a day and night cycle based on real time, influencing Pokémon appearance.
+- Breeding was introduced for the first time.
+- Shiny Pokémon were introduced — with Red Gyarados being the first guaranteed shiny.
+
+---
+
+# Pokémon Ruby and Sapphire
+
+- Introduced Abilities and Natures, adding more complexity to Pokémon stats and battles.
+- Introduced Double Battles, allowing two Pokémon to battle side-by-side.
+- Secret Bases let players create their own customizable hideouts.
+
+---
+
+# Pokémon Diamond and Pearl
+
+- Introduced online trading and battling through the Global Trade Station (GTS).
+- Brought Physical/Special split: now moves are categorized independently from their type.
+
+---
+
+# Pokémon Black and White
+
+- Only new Pokémon were available until the player completed the main game.
+- Black City and White Forest were version-exclusive cities with unique features.
+
+---
+
+# Pokémon X and Y
+
+- Introduced Fairy-type to balance the dominance of Dragon-types.
+- First main series games with full 3D graphics.
+- Introduced Mega Evolution.
+
+---
+
+# Pokémon Sun and Moon
+
+- Removed traditional gyms and introduced Island Trials and Kahunas.
+- Introduced Alolan Forms — regional variants of existing Pokémon with new types and appearances.
+- Z-Moves were introduced — powerful moves activated by using a Z-Crystal.
+
+---
+
+# Pokémon Sword and Shield
+
+- Introduced the Galar Region, inspired by the United Kingdom.
+- Dynamax and Gigantamax mechanics debuted, changing Pokémon into enormous forms.
+- The Wild Area allowed free camera movement and visible roaming Pokémon.
+
+---
+
+# Pokémon Scarlet and Violet
+
+- Introduced the open-world Paldea Region.
+- Terastallization allows Pokémon to transform into their Tera Type during battle, changing their weaknesses and strengths.
+- Rideable Legendary Pokémon (Koraidon and Miraidon) are given early in the game for exploration.
+
+---
+
+# Special Game Features
+
+- Wonder Trade (now Surprise Trade) allows players to instantly trade Pokémon with random players worldwide.
+- Battle Tower and Battle Frontier test trainers' skills in special challenging battles.
+- Pokémon Home app allows transferring Pokémon across multiple generations and games.
+- Pokémon Bank was used on Nintendo 3DS for managing Pokémon storage.
+
+---
+
+# Hidden Lore
+
+- Lavender Town in Pokémon Red/Blue is infamous for its creepy music and urban legends.
+- N, a character from Pokémon Black and White, is rumored to be part Pokémon due to his unique ability to understand Pokémon speech.
+- AZ's Floette in Pokémon X/Y is a special mythical Pokémon linked to a 3,000-year-old war.
+
+---
+
+# Competitive Battling
+
+- Pokémon IVs (Individual Values) and EVs (Effort Values) determine a Pokémon's hidden stats and growth.
+- Competitive players carefully breed and train Pokémon to maximize their strength in tournaments.
+
+---
+
+# Pokémon Trading Card Game (TCG)
+
+- The Pokémon TCG was launched in 1996 and remains one of the most successful card games in the world.
+- The most expensive Pokémon card is the "Pikachu Illustrator" card, selling for millions of dollars.
+
+---
+
+# Fun Fact
+
+- Pikachu was not originally intended to be the franchise mascot; Clefairy was supposed to take that role.
+- Arceus is classified as the "God" of Pokémon, while Mew is the "Ancestor" of all Pokémon.
+
+
+# Best Movesets for Famous Pokémon
+
+Charizard (Fire/Flying)
+- Flamethrower
+- Dragon Claw
+- Air Slash
+- Solar Beam (with Drought ability)
+
+Pikachu (Electric)
+- Thunderbolt
+- Iron Tail
+- Quick Attack
+- Volt Tackle
+
+Blastoise (Water)
+- Hydro Pump
+- Ice Beam
+- Dark Pulse
+- Shell Smash (boosting move)
+
+Venusaur (Grass/Poison)
+- Sludge Bomb
+- Giga Drain
+- Earthquake
+- Sleep Powder
+
+Gengar (Ghost/Poison)
+- Shadow Ball
+- Sludge Wave
+- Focus Blast
+- Destiny Bond
+
+Lucario (Fighting/Steel)
+- Aura Sphere
+- Close Combat
+- Meteor Mash
+- Extreme Speed
+
+Greninja (Water/Dark)
+- Hydro Pump
+- Ice Beam
+- Dark Pulse
+- U-turn
+
+Dragonite (Dragon/Flying)
+- Dragon Dance (boost)
+- Outrage
+- Fire Punch
+- Roost (healing)
+
+Garchomp (Dragon/Ground)
+- Earthquake
+- Dragon Claw
+- Stone Edge
+- Swords Dance
+
+Infernape (Fire/Fighting)
+- Close Combat
+- Flare Blitz
+- U-turn
+- Grass Knot
+
+Togekiss (Fairy/Flying)
+- Air Slash
+- Aura Sphere
+- Thunder Wave (paralysis support)
+- Roost
+
+Tyranitar (Rock/Dark)
+- Crunch
+- Stone Edge
+- Earthquake
+- Dragon Dance
+
+Metagross (Steel/Psychic)
+- Meteor Mash
+- Earthquake
+- Zen Headbutt
+- Bullet Punch
+
+Aegislash (Steel/Ghost)
+- Shadow Ball
+- Iron Head
+- Sacred Sword
+- King's Shield (signature defense move)
+
+Sylveon (Fairy)
+- Hyper Voice (with Pixilate ability)
+- Moonblast
+- Calm Mind
+- Wish (healing support)
+
+Cinderace (Fire)
+- Pyro Ball
+- High Jump Kick
+- U-turn
+- Court Change
+
+Zacian (Fairy/Steel - Crowned Sword)
+- Behemoth Blade
+- Play Rough
+- Sacred Sword
+- Swords Dance
+
+Gyarados (Water/Flying)
+- Waterfall
+- Crunch
+- Dragon Dance
+- Ice Fang
+
+Mimikyu (Ghost/Fairy)
+- Play Rough
+- Shadow Sneak
+- Swords Dance
+- Shadow Claw
+
+Alakazam (Psychic)
+- Psychic
+- Focus Blast
+- Shadow Ball
+- Calm Mind
+
+Arcanine (Fire)
+- Flare Blitz
+- Extreme Speed
+- Wild Charge
+- Morning Sun (healing)
+
+---
+
+# Fun Extra Fact!
+
+- Pokémon moves can be **Physical** or **Special** depending on their attack stats.
+- Some Pokémon (like Gengar) are better at Special moves, while others (like Garchomp) excel at Physical moves!
+
+---
+
+
+# Top 10 Strongest Pokémon (Lore-wise)
+
+1. Arceus – Creator of the Pokémon universe.
+2. Mewtwo – Engineered to be the ultimate Pokémon.
+3. Rayquaza – Master of the skies and peacekeeper of the climate.
+4. Dialga – Controls time itself.
+5. Palkia – Controls space and dimensions.
+6. Giratina – Governs antimatter and the Distortion World.
+7. Eternatus – Source of Dynamax energy.
+8. Lugia – Can calm storms by simply flapping its wings.
+9. Ho-Oh – Brings back the dead and bestows eternal happiness.
+10. Kyogre – Can expand the oceans and summon torrential rains.
+
+---
+
+# Top 10 Rarest Pokémon
+
+1. Mew (extremely rare mythical Pokémon)
+2. Celebi (time-traveling mythical Pokémon)
+3. Jirachi (awakens every 1,000 years)
+4. Shaymin (hidden in flower fields)
+5. Victini (symbol of infinite victory)
+6. Meltan (only appears via Pokémon GO events)
+7. Spiritomb (requires finding 108 spirits)
+8. Manaphy (can only be hatched from an egg)
+9. Deoxys (space virus mutation)
+10. Unown (ancient symbolic Pokémon with cryptic powers)
+
+---
+
+# Top 10 Cutest Pokémon
+
+1. Eevee
+2. Piplup
+3. Togepi
+4. Jigglypuff
+5. Pikachu
+6. Clefairy
+7. Rowlet
+8. Skitty
+9. Mimikyu
+10. Snorlax (when sleeping cutely)
+
+---
+
+# Fun Trivia Facts
+
+- Pokémon was almost called **"Capsule Monsters"** during its early development.
+- Pikachu's name is a combination of Japanese onomatopoeia: "pika" (sparkle) and "chu" (squeak).
+- Gengar’s design might be the shadow of Clefable.
+- Wobbuffet’s "real" body is possibly the black tail, not the blue figure.
+- Cubone wears the skull of its dead mother.
+- The first shiny Pokémon many players encounter is Red Gyarados in Pokémon Gold/Silver.
+- Ash Ketchum’s Japanese name is Satoshi, named after creator Satoshi Tajiri.
+
+---
+
+# Hidden Secrets in the Pokémon Games
+
+- Lavender Town's original music in Pokémon Red/Green allegedly caused unease and urban legends in Japan.
+- In Pokémon Gold/Silver, there’s a hidden Celebi event that was never officially released outside Japan.
+- In Pokémon Ruby/Sapphire, you can find a Mirage Island, a rare island that only appears based on hidden Pokémon stats.
+- In Pokémon Sword/Shield, the Champion Leon has a 100% win rate lore-wise.
+
+---
+
+# Legendary Trios Overview
+
+| Trio | Region | Types |
+|:---|:---|:---|
+| Legendary Birds (Articuno, Zapdos, Moltres) | Kanto | Ice, Electric, Fire |
+| Legendary Beasts (Raikou, Entei, Suicune) | Johto | Electric, Fire, Water |
+| Lake Guardians (Azelf, Uxie, Mesprit) | Sinnoh | Psychic |
+| Swords of Justice (Cobalion, Terrakion, Virizion, Keldeo) | Unova | Fighting types |
+| Forces of Nature (Tornadus, Thundurus, Landorus) | Unova | Flying, Electric, Ground |
+
+---
+
+# Pokémon Champions List
+
+| Region | Champion |
+|:---|:---|
+| Kanto | Blue (Rival) |
+| Johto | Lance |
+| Hoenn | Steven Stone |
+| Sinnoh | Cynthia |
+| Unova | Alder / Iris |
+| Kalos | Diantha |
+| Alola | You (Player is first champion) |
+| Galar | Leon |
+| Paldea | Geeta |
+
+---
+

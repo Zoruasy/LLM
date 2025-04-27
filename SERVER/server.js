@@ -4,7 +4,7 @@ import { AzureChatOpenAI, AzureOpenAIEmbeddings } from "@langchain/openai";
 import { HumanMessage, SystemMessage, AIMessage } from "@langchain/core/messages";
 import { FaissStore } from "@langchain/community/vectorstores/faiss";
 
-const vectorStoreLoadPath = "./vectorstore"; // of ./vectordatabase afhankelijk van jouw mapnaam
+const vectorStoreLoadPath = "./vectorstore";
 const K_RESULTS = 3;
 
 let vectorStore;
