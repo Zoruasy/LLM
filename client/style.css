@@ -1,54 +1,103 @@
-/* Algemeen stijlen voor het formulier */
-form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 400px;
-    margin: 0 auto;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
     padding: 20px;
-    background-color: #f4f4f9;
+}
+
+header, main, footer {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-form input {
-    width: 100%;
-    padding: 10px;
+header {
+    /*background-color: rgba(5, 94, 5, 0.84);*/
+    color: #fff;
+    text-align: center;
+    background-image: linear-gradient(green, #45a845, green);
+    /*background-image: url("img/jungle-forest-silhouette-rainforest-background-vector.jpg");*/
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+
+main h2 {
+    color: #4a7c4a;
     margin-bottom: 15px;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 5px;
+}
+
+main h3 {
+    color: #555;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+#chat-section p {
+    margin-bottom: 15px;
+}
+
+
+#chat-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#chatfield {
+    flex-grow: 1;
+    padding: 10px 15px;
     border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 16px;
-    transition: border-color 0.3s ease;
+    border-radius: 4px;
+    font-size: 1rem;
 }
 
-form input:focus {
-    border-color: #4CAF50;
-    outline: none;
-}
-
-form button {
+#chat-form button {
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #d9a44d;
     color: white;
     border: none;
-    border-radius: 5px;
-    font-size: 16px;
+    border-radius: 4px;
+    font-size: 1rem;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.2s ease;
 }
 
-form button:hover {
-    background-color: #45a049;
+#chat-form button:hover {
+    background-color: #c8933d;
 }
 
-/* Respons div stijlen */
-#response {
-    margin-top: 20px;
+
+#response-area {
+    background-color: #e9f5e9;
+    border-left: 4px solid #5a8a5a;
     padding: 15px;
-    background-color: #e0f7fa;
-    color: #00796b;
-    border-radius: 5px;
-    text-align: center;
-    font-size: 18px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    border-radius: 4px;
+    min-height: 50px;
+}
+
+#askQuestion {
+    display: block;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#maxzoo{
+    padding: 10px 10vw;
 }
