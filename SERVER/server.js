@@ -4,7 +4,7 @@ import { AzureChatOpenAI, AzureOpenAIEmbeddings } from "@langchain/openai";
 import { HumanMessage, SystemMessage, AIMessage } from "@langchain/core/messages";
 import { FaissStore } from "@langchain/community/vectorstores/faiss";
 
-const vectorStoreLoadPath = "./vectordatabase"; // jouw vectorstore map
+const vectorStoreLoadPath = "./vectorstore"; // of ./vectordatabase afhankelijk van jouw mapnaam
 const K_RESULTS = 3;
 
 let vectorStore;
@@ -58,10 +58,10 @@ app.post('/', async (req, res) => {
     const context = relevantDocs.map(doc => doc.pageContent).join("\n\n---\n\n");
 
     const originalSystemPrompt = messages.find(msg => msg.constructor.name === 'SystemMessage')?.content
-        || "You are a helpful Pokémon assistant.";
+        || "You are a helpful Pokémon Professor.";
 
     const ragSystemPrompt = new SystemMessage(
-        `${originalSystemPrompt}\n\nWhen answering the user's question, use the following context *only* if it is relevant. Base your answer primarily on this context if it helps answer the question about Pokémon, their types, evolutions, regions, or battles from the Pokémon world. If the context is not relevant, or the question is not about Pokémon, answer based on your general Pokémon knowledge, but do not invent facts not mentioned in the context if the question *is* about the guide. Politely decline if the question is completely off-topic. Do not explicitly mention the context unless asked how you know something.\n\nRelevant Context:\n---\n${context}\n---`
+        `${originalSystemPrompt}\n\nWhen answering the user's question, use the following context *only* if it is relevant. Base your answer primarily on this context if it helps answer the question about Pokémon, their types, evolutions, regions, abilities, or battles. If the context is not relevant, or the question is not about Pokémon, answer based on your general Pokémon knowledge, but do not invent facts not mentioned in the context if the question *is* about the guide. Politely decline if the question is completely unrelated to Pokémon. Do not explicitly mention the context unless asked how you know something.\n\nRelevant Context:\n---\n${context}\n---`
     );
 
     const ragMessages = [

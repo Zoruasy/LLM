@@ -1,103 +1,82 @@
-* {
-    box-sizing: border-box;
+body {
+    font-family: 'Verdana', sans-serif;
+    background: linear-gradient(135deg, #ffcc00 0%, #ff6666 100%);
+    color: #333;
     margin: 0;
     padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
-    padding: 20px;
+.container {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 600px;
 }
 
-header, main, footer {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-header {
-    /*background-color: rgba(5, 94, 5, 0.84);*/
-    color: #fff;
-    text-align: center;
-    background-image: linear-gradient(green, #45a845, green);
-    /*background-image: url("img/jungle-forest-silhouette-rainforest-background-vector.jpg");*/
-}
-
-header h1 {
-    margin-bottom: 10px;
-}
-
-
-main h2 {
-    color: #4a7c4a;
-    margin-bottom: 15px;
-    border-bottom: 2px solid #e0e0e0;
-    padding-bottom: 5px;
-}
-
-main h3 {
-    color: #555;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-
-#chat-section p {
-    margin-bottom: 15px;
-}
-
-
-#chat-form {
+form {
     display: flex;
     gap: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 1rem;
 }
 
 #chatfield {
-    flex-grow: 1;
-    padding: 10px 15px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    flex: 1;
+    padding: 10px;
     font-size: 1rem;
+    border: 2px solid #ffcc00;
+    border-radius: 8px;
+    outline: none;
 }
 
-#chat-form button {
-    padding: 10px 20px;
-    background-color: #d9a44d;
-    color: white;
+button {
+    background-color: #ffcc00;
     border: none;
-    border-radius: 4px;
+    padding: 10px 20px;
+    font-weight: bold;
     font-size: 1rem;
+    border-radius: 8px;
     cursor: pointer;
-    transition: background-color 0.2s ease;
+    transition: background-color 0.3s;
 }
 
-#chat-form button:hover {
-    background-color: #c8933d;
+button:hover {
+    background-color: #ff9900;
 }
 
-
-#response-area {
-    background-color: #e9f5e9;
-    border-left: 4px solid #5a8a5a;
+#response {
+    background-color: #f9f9f9;
     padding: 15px;
-    margin-top: 20px;
-    border-radius: 4px;
-    min-height: 50px;
-}
-
-#askQuestion {
-    display: block;
+    border-radius: 8px;
+    min-height: 100px;
+    overflow-y: auto;
     white-space: pre-wrap;
     word-wrap: break-word;
+    font-size: 1rem;
 }
 
-#maxzoo{
-    padding: 10px 10vw;
+/* Markdown styling */
+#response h1,
+#response h2,
+#response h3 {
+    color: #cc0000;
+}
+
+#response strong {
+    color: #0066cc;
+}
+
+#response ul {
+    padding-left: 1.2rem;
+}
+
+#response code {
+    background: #eee;
+    padding: 2px 5px;
+    border-radius: 4px;
 }

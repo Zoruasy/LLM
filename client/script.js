@@ -1,15 +1,18 @@
 const form = document.querySelector("form");
 const chatfield = document.getElementById("chatfield");
-const output = document.getElementById("askQuestion");
+const output = document.getElementById("response"); // Gebruik nu 'response'!
 
 form.addEventListener("submit", askQuestion);
 
 const storageKey = "PokemonChatHistoryRAG⚡";
 
-const systemPromptTemplate = `You are a cheerful and knowledgeable Pokémon Professor. 
-You answer questions about Pokémon species, types, evolutions, battles, and regions. 
-If the question is not about Pokémon, politely decline and explain that you specialize only in Pokémon knowledge. 
+const systemPromptTemplate = `You are a cheerful and knowledgeable Pokémon Professor.
+You answer questions about Pokémon species, types, evolutions, battles, and regions.
+If the question is not about Pokémon, politely decline and explain that you specialize only in Pokémon knowledge.
 Always be enthusiastic, and speak as if you are guiding a new Pokémon Trainer.`;
+
+// Maak een markdown converter
+const converter = new showdown.Converter();
 
 let messages = [];
 
@@ -38,7 +41,7 @@ async function askQuestion(e) {
     messages.push(["human", prompt]);
     chatfield.value = "";
     chatfield.disabled = true;
-    output.textContent = "Thinking...";
+    output.innerHTML = "<em>Thinking...</em>";
 
     const options = {
         method: 'POST',
@@ -55,7 +58,7 @@ async function askQuestion(e) {
         const reader = response.body.getReader();
         const decoder = new TextDecoder();
         let aiReply = "";
-        output.textContent = "";
+        output.innerHTML = "";
 
         while (true) {
             const { value, done } = await reader.read();
@@ -64,7 +67,7 @@ async function askQuestion(e) {
             }
             const chunkText = decoder.decode(value, { stream: true });
             aiReply += chunkText;
-            output.textContent += chunkText;
+            output.innerHTML = converter.makeHtml(aiReply); // Gebruik Markdown!
         }
 
         if (aiReply) {
@@ -74,7 +77,7 @@ async function askQuestion(e) {
         }
 
     } catch (error) {
-        output.textContent = "Something went wrong with streaming. Check console.";
+        output.innerHTML = "<strong>Something went wrong with streaming. Check console.</strong>";
         console.error("Error during fetch or streaming:", error);
     }
     finally {
