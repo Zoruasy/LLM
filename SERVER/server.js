@@ -6,7 +6,6 @@ import { FaissStore } from "@langchain/community/vectorstores/faiss";
 
 const vectorStoreLoadPath = "./vectorstore";
 const K_RESULTS = 3;
-
 let vectorStore;
 let model;
 let embeddings;
@@ -19,6 +18,8 @@ async function initializeApp() {
         azureOpenAIApiDeploymentName: process.env.AZURE_OPENAI_API_DEPLOYMENT_NAME,
         azureOpenAIApiVersion: process.env.AZURE_OPENAI_API_VERSION,
     });
+
+     // CHATLLM
 
     embeddings = new AzureOpenAIEmbeddings({
         azureOpenAIApiKey: process.env.AZURE_OPENAI_API_KEY,
@@ -69,6 +70,8 @@ app.post('/', async (req, res) => {
         ...messages.filter(msg => msg.constructor.name !== 'SystemMessage')
     ];
 
+    // chatllm verwacht lijst van berichten met een rol
+
     try {
         const stream = await model.stream(ragMessages);
         res.setHeader('Content-Type', 'text/plain; charset=utf-8');
@@ -76,6 +79,8 @@ app.post('/', async (req, res) => {
             if (chunk.content) {
                 res.write(chunk.content);
             }
+            // De server leest elk binnenkomend stukje tekst (chunk.content) en stuurt het meteen door naar de browser.
+            // Zo zie je in de chat live het antwoord verschijnen, net alsof iemand echt aan het typen is.
         }
         res.end();
     } catch (error) {
@@ -85,8 +90,12 @@ app.post('/', async (req, res) => {
         } else {
             res.end();
         }
+        // hier de stream chunk die naar de http response gaat. woordgroep voor het typing effect
     }
 });
+
+// hierboven array aan berichten ragmessages naar azure openai api, antwoord genereren
+
 
 initializeApp().then(() => {
     const PORT = process.env.PORT || 3000;

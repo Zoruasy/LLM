@@ -1,50 +1,88 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #262424;
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
+/* Container styling */
 .container {
-    width: 400px; /* Vergroot de breedte van de container */
-    margin: 50px auto;
-    padding: 30px; /* Vergroot de padding */
+    width: 800px;
+    margin: 400px auto;
+    padding: 30px;
     border-radius: 15px;
     background: linear-gradient(to bottom, #ff0000 50%, #ffffff 50%);
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5); /* Iets grotere schaduw */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
     text-align: center;
 }
 
+/* Formulier styling */
 #chatForm {
     display: flex;
     flex-direction: column;
+    gap: 15px;
 }
 
+/* Invoerveld styling */
 #chatfield {
-    padding: 15px; /* Vergroot de padding van het invoerveld */
+    padding: 15px;
     border: 2px solid #000;
     border-radius: 5px;
-    margin-bottom: 15px; /* Vergroot de marge onder het invoerveld */
-    font-size: 16px; /* Vergroot de tekstgrootte */
+    margin-bottom: 20px;
+    font-size: 16px;
 }
 
+/* Knop styling */
 button {
-    padding: 15px; /* Vergroot de padding van de knop */
+    padding: 15px;
     background-color: #000;
     color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 16px; /* Vergroot de tekstgrootte van de knop */
+    font-size: 16px;
 }
 
 button:hover {
     background-color: #444;
 }
 
+/* Responsgebied styling */
 #response {
     margin-top: 20px;
-    padding: 15px; /* Vergroot de padding van het responsgebied */
+    padding: 15px;
     border: 2px solid #000;
     border-radius: 5px;
     background-color: #fff;
-    font-size: 16px; /* Vergroot de tekstgrootte van de respons */
+    font-size: 16px;
+}
+
+/* Chat area styling */
+#chatArea {
+    margin-top: 30px;
+    height: 500px;
+    overflow-y: auto;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    background-color: #fafafa;
+}
+
+/* Berichten styling */
+.message {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    word-wrap: break-word;
+}
+
+.user-message {
+    background-color: #d1eaff;
+    text-align: right;
+}
+
+.bot-response {
+    background-color: #e8f5e9;
+    text-align: left;
 }
